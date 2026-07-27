@@ -17,7 +17,7 @@
 
 ### ChatGPT
 
-- ChatGPT Plus 怎么充值（最新版）
+- [ChatGPT Plus 怎么订阅？2025 最新购买、支付与使用指南](docs/chatgpt/chatgpt-plus-guide.md)
 - ChatGPT Pro 怎么购买
 - ChatGPT Plus 支付失败怎么办
 - ChatGPT Plus 如何取消订阅
