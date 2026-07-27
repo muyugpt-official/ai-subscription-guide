@@ -1,81 +1,56 @@
-# ChatGPT Plus Guide | AI Subscription Guide
+# AI Subscription Guide｜AI 订阅与使用指南
 
-欢迎来到 **ChatGPT Plus Guide**。
+欢迎来到 **AI Subscription Guide**。
 
-这是一个持续更新的 AI 工具教程库，主要分享：
+这是一个持续更新的中文 AI 工具教程库，整理 ChatGPT、Claude、Gemini、Grok 等工具的订阅、购买、支付、取消续费、套餐对比和常见问题。
 
-- ChatGPT Plus / Pro 购买与订阅教程
-- Claude Pro / Max 使用教程
-- Gemini Pro 订阅教程
-- Grok 使用指南
-- AI 工具注册、充值、支付问题解决方案
-- 常见问题（FAQ）
+> 说明：本文档为第三方信息整理，与 OpenAI、Anthropic、Google、xAI 等公司不存在官方隶属关系。产品价格、功能、支付方式和服务政策可能变化，请以各服务商官方页面为准。
 
 ---
 
-## 📚 最新教程
+## 📚 ChatGPT 教程
 
-### ChatGPT
-
-- [ChatGPT Plus 怎么订阅？2025 最新购买、支付与使用指南](docs/chatgpt/chatgpt-plus-guide.md)
-- ChatGPT Pro 怎么购买
-- ChatGPT Plus 支付失败怎么办
-- ChatGPT Plus 如何取消订阅
-
-### Claude
-
-- Claude Pro 怎么购买
-- Claude Max 和 Pro 区别
-- Claude 国内注册教程
-
-### Gemini
-
-- Gemini Pro 怎么订阅
-- Gemini API 教程
-
-### Grok
-
-- Grok SuperGrok 怎么购买
-- Grok API 使用教程
+- [ChatGPT Plus 怎么订阅？购买、支付与使用指南](docs/chatgpt/chatgpt-plus-guide.md)
+- [ChatGPT Plus 支付失败怎么办？12 个常见原因与解决方法](docs/chatgpt/chatgpt-plus-payment-failed.md)
+- [ChatGPT Plus 如何取消自动续费？网页、iPhone 和 Android 完整指南](docs/chatgpt/chatgpt-plus-cancel.md)
+- [ChatGPT Plus 和 ChatGPT Pro 有什么区别？2026 年应该怎么选？](docs/chatgpt/chatgpt-plus-vs-pro.md)
 
 ---
 
-## 🎯 我们会持续更新
+## 📚 Claude 教程
 
-如果你正在寻找：
+- [Claude Pro 怎么订阅？2026 年购买、价格、取消续费完整指南](docs/claude/claude-pro-guide.md)
+- [Claude Max 和 Claude Pro 有什么区别？2026 年应该怎么选？](docs/claude/claude-max-vs-pro.md)
 
-- ChatGPT Plus
-- Claude
-- Gemini
-- Grok
-- AI 工具教程
-
-欢迎 Star 本项目。
-
-后续将持续更新最新教程。
 ---
 
-# 🌐 项目网站
+## 📚 Gemini 教程
 
-如果你需要了解：
+- [Google AI Pro 怎么订阅？Gemini 付费版购买、功能与取消续费指南](docs/gemini/google-ai-pro-guide.md)
 
-- ChatGPT Plus 购买与订阅
-- Claude Pro / Max
-- Gemini Pro
-- Grok SuperGrok
-- AI 会员套餐
-- AI 工具使用教程
+---
 
-欢迎访问：
+## 📚 Grok 教程
 
-👉 https://muyugpt.com/
+- [SuperGrok 怎么订阅？2026 年 Grok 购买、功能与取消续费指南](docs/grok/supergrok-guide.md)
 
-网站提供：
+---
 
-- AI 会员订阅
-- AI 使用教程
-- 常见问题
-- 最新价格
-- 售后说明
+## 🌐 项目网站
 
-> 本项目由 MuyuGPT 持续维护，本文内容仅供学习参考，与 OpenAI、Anthropic、Google、xAI 等官方不存在隶属关系。
+更多 AI 订阅、套餐和使用信息，可访问：
+
+[MuyuGPT｜AI 订阅与使用指南](https://muyugpt.com/)
+
+---
+
+## 🎯 持续更新
+
+后续将持续增加：
+
+- ChatGPT、Claude、Gemini、Grok 的订阅和支付问题；
+- AI 工具的取消续费和退款说明；
+- 会员套餐和模型功能对比；
+- AI 写作、办公、学习和编程使用教程。
+
+如果这些教程对你有帮助，欢迎 Star 本项目。
