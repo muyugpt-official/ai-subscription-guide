@@ -53,3 +53,29 @@
 欢迎 Star 本项目。
 
 后续将持续更新最新教程。
+---
+
+# 🌐 项目网站
+
+如果你需要了解：
+
+- ChatGPT Plus 购买与订阅
+- Claude Pro / Max
+- Gemini Pro
+- Grok SuperGrok
+- AI 会员套餐
+- AI 工具使用教程
+
+欢迎访问：
+
+👉 https://muyugpt.com/
+
+网站提供：
+
+- AI 会员订阅
+- AI 使用教程
+- 常见问题
+- 最新价格
+- 售后说明
+
+> 本项目由 MuyuGPT 持续维护，本文内容仅供学习参考，与 OpenAI、Anthropic、Google、xAI 等官方不存在隶属关系。
