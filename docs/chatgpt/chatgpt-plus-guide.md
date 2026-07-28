@@ -1,5 +1,5 @@
 # ChatGPT Plus 怎么开通？2026 年订阅、支付与使用指南
-> 视频版教程：[ChatGPT Plus 怎么开通？](https://youtu.be/JeQZ6BAc_9E)
+>> 视频版教程：[ChatGPT Plus 怎么开通？](https://youtu.be/JeQZ6BAo_9E)
 >
 > 查看当前套餐：[ChatGPT 套餐与服务说明](https://muyugpt.com/chatgpt)
 > 最后更新时间：2026 年 7 月
