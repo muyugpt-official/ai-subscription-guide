@@ -14,14 +14,14 @@
 - [ChatGPT Plus 支付失败怎么办？12 个常见原因与解决方法](docs/chatgpt/chatgpt-plus-payment-failed.md)
 - [ChatGPT Plus 如何取消自动续费？网页、iPhone 和 Android 完整指南](docs/chatgpt/chatgpt-plus-cancel.md)
 - [ChatGPT Plus 和 ChatGPT Pro 有什么区别？2026 年应该怎么选？](docs/chatgpt/chatgpt-plus-vs-pro.md)
-
+- [ChatGPT Plus 如何申请退款？网页、iPhone 和 Android 完整指南](docs/chatgpt/chatgpt-plus-refund.md)
 ---
 
 ## 📚 Claude 教程
 
 - [Claude Pro 怎么订阅？2026 年购买、价格、取消续费完整指南](docs/claude/claude-pro-guide.md)
 - [Claude Max 和 Claude Pro 有什么区别？2026 年应该怎么选？](docs/claude/claude-max-vs-pro.md)
-
+- [Claude Pro 支付失败怎么办？常见原因与解决方法](docs/claude/claude-pro-payment-failed.md)
 ---
 
 ## 📚 Gemini 教程
