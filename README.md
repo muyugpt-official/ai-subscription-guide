@@ -27,13 +27,13 @@
 ## 📚 Gemini 教程
 
 - [Google AI Pro 怎么订阅？Gemini 付费版购买、功能与取消续费指南](docs/gemini/google-ai-pro-guide.md)
-
+- [Google AI Pro 如何取消订阅？网页、Android 和 iPhone 完整指南](docs/gemini/google-ai-pro-cancel.md)
 ---
 
 ## 📚 Grok 教程
 
 - [SuperGrok 怎么订阅？2026 年 Grok 购买、功能与取消续费指南](docs/grok/supergrok-guide.md)
-
+- [SuperGrok 如何取消订阅？网页、iPhone 和 Android 完整指南](docs/grok/supergrok-cancel.md)
 ---
 
 ## 🌐 项目网站
