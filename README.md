@@ -22,7 +22,7 @@
 - [Claude Pro 怎么订阅？2026 年购买、价格、取消续费完整指南](docs/claude/claude-pro-guide.md)
 - [Claude Max 和 Claude Pro 有什么区别？2026 年应该怎么选？](docs/claude/claude-max-vs-pro.md)
 - [Claude Pro 支付失败怎么办？常见原因与解决方法](docs/claude/claude-pro-payment-failed.md)
----
+- [Claude Pro 如何取消自动续费？网页、iPhone 和 Android 完整指南](docs/claude/claude-pro-cancel.md)
 
 ## 📚 Gemini 教程
 
