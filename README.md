@@ -16,6 +16,8 @@
 - [ChatGPT Plus 和 ChatGPT Pro 有什么区别？2026 年应该怎么选？](docs/chatgpt/chatgpt-plus-vs-pro.md)
 - [ChatGPT Plus 如何申请退款？网页、iPhone 和 Android 完整指南](docs/chatgpt/chatgpt-plus-refund.md)
 - [ChatGPT Plus 和 Claude Pro 怎么选？2026 年功能、使用场景与订阅建议](docs/chatgpt/chatgpt-plus-vs-claude-pro.md)
+- [ChatGPT Plus 和 OpenAI API 有什么区别？会员订阅与接口充值怎么选](docs/chatgpt/chatgpt-plus-vs-api.md)
+- [ChatGPT 和 Gemini 怎么选？2026 年功能、使用场景与订阅建议](docs/chatgpt/chatgpt-vs-gemini.md)
 
 ## 📚 Claude 教程
 
