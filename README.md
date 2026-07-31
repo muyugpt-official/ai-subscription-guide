@@ -18,6 +18,7 @@
 - [ChatGPT Plus 和 Claude Pro 怎么选？2026 年功能、使用场景与订阅建议](docs/chatgpt/chatgpt-plus-vs-claude-pro.md)
 - [ChatGPT Plus 和 OpenAI API 有什么区别？会员订阅与接口充值怎么选](docs/chatgpt/chatgpt-plus-vs-api.md)
 - [ChatGPT 和 Gemini 怎么选？2026 年功能、使用场景与订阅建议](docs/chatgpt/chatgpt-vs-gemini.md)
+- [ChatGPT 充值和官方订阅有什么区别？第三方代充下单前必看](docs/chatgpt/chatgpt-recharge-vs-official-subscription.md)
 
 ## 📚 Claude 教程
 
