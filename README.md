@@ -26,7 +26,7 @@
 - [Claude Max 和 Claude Pro 有什么区别？2026 年应该怎么选？](docs/claude/claude-max-vs-pro.md)
 - [Claude Pro 支付失败怎么办？常见原因与解决方法](docs/claude/claude-pro-payment-failed.md)
 - [Claude Pro 如何取消自动续费？网页、iPhone 和 Android 完整指南](docs/claude/claude-pro-cancel.md)
-
+- [Claude Pro / Claude Max 怎么用支付宝微信充值？2026 国内代充教程](docs/claude/claude-pro-alipay-wechat-recharge.md)
 ## 📚 Gemini 教程
 
 - [Google AI Pro 怎么订阅？Gemini 付费版购买、功能与取消续费指南](docs/gemini/google-ai-pro-guide.md)
