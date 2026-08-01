@@ -31,7 +31,7 @@
 
 - [Google AI Pro 怎么订阅？Gemini 付费版购买、功能与取消续费指南](docs/gemini/google-ai-pro-guide.md)
 - [Google AI Pro 如何取消订阅？网页、Android 和 iPhone 完整指南](docs/gemini/google-ai-pro-cancel.md)
----
+- [Gemini AI Pro 怎么用支付宝微信充值？2026 国内代充教程](docs/gemini/gemini-ai-pro-alipay-wechat-recharge.md)
 
 ## 📚 Grok 教程
 
