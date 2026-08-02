@@ -19,6 +19,7 @@
 - [ChatGPT Plus 和 OpenAI API 有什么区别？会员订阅与接口充值怎么选](docs/chatgpt/chatgpt-plus-vs-api.md)
 - [ChatGPT 和 Gemini 怎么选？2026 年功能、使用场景与订阅建议](docs/chatgpt/chatgpt-vs-gemini.md)
 - [ChatGPT 充值和官方订阅有什么区别？第三方代充下单前必看](docs/chatgpt/chatgpt-recharge-vs-official-subscription.md)
+- [ChatGPT Plus / Pro 怎么用支付宝微信充值？2026 国内代充教程](docs/chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
 
 ## 📚 Claude 教程
 
@@ -37,7 +38,9 @@
 
 - [SuperGrok 怎么订阅？2026 年 Grok 购买、功能与取消续费指南](docs/grok/supergrok-guide.md)
 - [SuperGrok 如何取消订阅？网页、iPhone 和 Android 完整指南](docs/grok/supergrok-cancel.md)
----
+- [Grok / SuperGrok 怎么用支付宝微信充值？2026 国内代充教程](docs/grok/supergrok-alipay-wechat-recharge.md)
+
+
 
 ## 🌐 项目网站
 
