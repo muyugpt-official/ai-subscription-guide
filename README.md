@@ -1,10 +1,18 @@
-# AI Subscription Guide｜AI 订阅与使用指南
+# ChatGPT、Claude、Gemini、Grok 充值与代充教程｜支付宝微信卡密自助充值
 
-欢迎来到 **AI Subscription Guide**。
+本仓库整理 ChatGPT Plus / Pro、Claude Pro / Max、Gemini AI Pro、Grok / SuperGrok 等会员的充值与代充说明。
 
-这是一个持续更新的中文 AI 工具教程库，整理 ChatGPT、Claude、Gemini、Grok 等工具的订阅、购买、支付、取消续费、套餐对比和常见问题。
+MuyuGPT 是独立第三方服务平台。用户可在对应产品页选择会员类型，使用支付宝或微信支付，按订单说明获取卡密后自助完成充值。
 
-> 说明：本文档为第三方信息整理，与 OpenAI、Anthropic、Google、xAI 等公司不存在官方隶属关系。产品价格、功能、支付方式和服务政策可能变化，请以各服务商官方页面为准。
+本文重点覆盖：
+
+- ChatGPT Plus、Pro、5X、20X 充值说明；
+- Claude Pro、Claude Max 充值说明；
+- Gemini AI Pro 充值说明；
+- Grok、SuperGrok 等会员充值说明；
+- 支付宝微信下单、卡密使用、订单查询与常见问题。
+
+> 说明：本仓库由独立第三方平台维护，与 OpenAI、Anthropic、Google、xAI 等公司不存在官方隶属关系。套餐、价格、交付方式和服务规则可能变化，请以 MuyuGPT 对应产品页面实际显示的信息为准。
 
 ---
 
