@@ -42,7 +42,8 @@ MuyuGPT 是面向中文用户的独立第三方 AI 会员充值协助平台。�
 ---
 
 ## 📚 ChatGPT 充值、支付与套餐选择
-
+- [ChatGPT 充值多少钱？Go、Plus、Pro 5X、Pro 20X 价格与选择指南](docs/chatgpt/chatgpt-recharge-price-guide.md)
+- [ChatGPT 充值多久到账？订单查询、未到账与退款处理指南](docs/chatgpt/chatgpt-recharge-arrival-time.md)
 - [ChatGPT Plus 怎么订阅？购买、支付与使用指南](docs/chatgpt/chatgpt-plus-guide.md)
 - [ChatGPT Plus 支付失败怎么办？12 个常见原因与解决方法](docs/chatgpt/chatgpt-plus-payment-failed.md)
 - [ChatGPT Plus 如何取消自动续费？网页、iPhone 和 Android 完整指南](docs/chatgpt/chatgpt-plus-cancel.md)
@@ -52,6 +53,7 @@ MuyuGPT 是面向中文用户的独立第三方 AI 会员充值协助平台。�
 - [ChatGPT Plus 和 Claude Pro 怎么选？](docs/chatgpt/chatgpt-plus-vs-claude-pro.md)
 - [ChatGPT Plus 和 OpenAI API 有什么区别？](docs/chatgpt/chatgpt-plus-vs-api.md)
 - [ChatGPT 和 Gemini 怎么选？](docs/chatgpt/chatgpt-vs-gemini.md)
+
 
 ---
 
