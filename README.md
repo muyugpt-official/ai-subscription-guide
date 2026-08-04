@@ -59,6 +59,7 @@ MuyuGPT 是面向中文用户的独立第三方 AI 会员充值协助平台。�
 
 ## 📚 Claude 充值、支付与套餐选择
 
+- [Claude 代充安全吗？卡密、自用账号与成品号充值避坑指南](docs/claude/claude-recharge-safety.md)
 - [Claude Pro 怎么订阅？2026 年购买、价格与取消续费指南](docs/claude/claude-pro-guide.md)
 - [Claude Max 和 Claude Pro 有什么区别？2026 年应该怎么选？](docs/claude/claude-max-vs-pro.md)
 - [Claude Pro 支付失败怎么办？常见原因与解决方法](docs/claude/claude-pro-payment-failed.md)
