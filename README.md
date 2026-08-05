@@ -69,7 +69,7 @@ MuyuGPT 是面向中文用户的独立第三方 AI 会员充值协助平台。�
 ---
 
 ## 📚 Gemini 充值、支付与套餐选择
-
+- [Gemini 代充安全吗？本人 Google 账号、家庭组与成品号避坑指南](docs/gemini/gemini-recharge-safety.md)
 - [Google AI Pro 怎么订阅？Gemini 付费版购买、功能与取消续费指南](docs/gemini/google-ai-pro-guide.md)
 - [Google AI Pro 如何取消订阅？网页、Android 和 iPhone 完整指南](docs/gemini/google-ai-pro-cancel.md)
 
