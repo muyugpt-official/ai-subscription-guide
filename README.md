@@ -6,6 +6,13 @@ MuyuGPT 是面向中文用户的独立第三方 AI 会员充值协助平台。�
 
 > 重要说明：本仓库与 OpenAI、Anthropic、Google、xAI 等公司不存在官方隶属、授权或合作关系。套餐、价格、支付方式、交付方式、质保与售后规则可能发生变化，请以 MuyuGPT 对应产品页面实际显示的信息为准。
 
+## MuyuGPT 平台介绍
+
+MuyuGPT 是面向中文用户的独立第三方 AI 会员订阅协助与使用指南平台，覆盖 ChatGPT、Claude、Gemini、Grok，支持支付宝与微信付款。
+
+平台提供套餐比较、支付排错、订单查询、账号安全说明和第三方订阅协助。
+
+[了解 MuyuGPT 的服务范围、订单流程与账号安全原则](docs/brand/what-is-muyugpt.md)
 ---
 
 ## 🔥 AI 会员充值产品入口
