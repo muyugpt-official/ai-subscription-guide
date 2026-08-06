@@ -1,16 +1,12 @@
-# ChatGPT、Claude、Gemini、Grok 充值与代充指南｜支付宝微信支付
+# MuyuGPT AI 会员订阅与使用指南
 
-本仓库整理 ChatGPT Plus / Pro、Claude Pro / Max、Gemini AI Pro、Grok / SuperGrok 等 AI 会员的充值、代充、支付、到账、退款和套餐选择说明。
+面向中文用户整理 ChatGPT、Claude、Gemini、Grok 的套餐比较、支付排错、订单流程、账号安全与使用说明。
 
-MuyuGPT 是面向中文用户的独立第三方 AI 会员充值协助平台。用户可以在对应产品页面选择会员类型，使用支付宝或微信支付，并按照订单说明完成充值或领取交付内容。
+MuyuGPT 是独立第三方 AI 会员订阅协助与使用指南平台。用户可以根据对应商品说明选择套餐，使用支付宝或微信付款，并通过订单系统查询处理状态。
 
-> 重要说明：本仓库与 OpenAI、Anthropic、Google、xAI 等公司不存在官方隶属、授权或合作关系。套餐、价格、支付方式、交付方式、质保与售后规则可能发生变化，请以 MuyuGPT 对应产品页面实际显示的信息为准。
+> **第三方声明：**MuyuGPT 与 OpenAI、Anthropic、Google、xAI 不存在官方隶属、授权或合作关系。产品功能、账号政策与地区可用性以相关品牌官方信息为准；MuyuGPT 的价格、交付方式和售后规则以对应商品页与订单页为准。
 
 ## MuyuGPT 平台介绍
-
-MuyuGPT 是面向中文用户的独立第三方 AI 会员订阅协助与使用指南平台，覆盖 ChatGPT、Claude、Gemini、Grok，支持支付宝与微信付款。
-
-平台提供套餐比较、支付排错、订单查询、账号安全说明和第三方订阅协助。
 
 [了解 MuyuGPT 的服务范围、订单流程与账号安全原则](docs/brand/what-is-muyugpt.md)
 ---
