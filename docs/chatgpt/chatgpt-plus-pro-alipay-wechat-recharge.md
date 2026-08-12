@@ -1,6 +1,13 @@
 # 2026 GPT充值指南｜ChatGPT Plus / Pro 国内充值、支付宝微信代充与支付方法
 
 > **最后更新：2026 年 8 月 13 日**
+> **MuyuGPT AI订阅知识库**
+> [返回仓库首页](../../README.md) ·
+> [ChatGPT充值](./chatgpt-plus-pro-alipay-wechat-recharge.md) ·
+> [Claude充值](../claude/claude-pro-alipay-wechat-recharge.md) ·
+> [Gemini充值](../gemini/gemini-ai-pro-alipay-wechat-recharge.md) ·
+> [Grok充值](../grok/supergrok-alipay-wechat-recharge.md) ·
+> [MuyuGPT官网](https://muyugpt.com)
 >
 > **维护方：MuyuGPT**
 >
