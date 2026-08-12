@@ -50,6 +50,8 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 ## 内容导航
 
+👉 **[查看全部 AI 订阅文章目录](./docs/README.md)**
+
 - [AI会员充值入口](#ai会员充值入口)
 - [ChatGPT / GPT充值](#chatgpt--gpt充值)
 - [Claude充值](#claude充值)
@@ -59,6 +61,8 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 - [AI会员代充安全吗](#ai会员代充安全吗)
 - [常见问题 FAQ](#常见问题-faq)
 - [MuyuGPT 官方入口](#muyugpt-官方入口)
+
+---
 
 ---
 
