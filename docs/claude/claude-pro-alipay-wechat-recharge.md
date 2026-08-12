@@ -2,8 +2,8 @@
 
 > **最后更新：2026 年 8 月 13 日**
 >
-> **维护方：MuyuGPT**
-> **MuyuGPT AI订阅知识库**
+> **维护方：MuyuGPT**  
+> **MuyuGPT AI订阅知识库**  
 > [返回仓库首页](../../README.md) ·
 > [ChatGPT充值](../chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md) ·
 > [Claude充值](./claude-pro-alipay-wechat-recharge.md) ·
@@ -167,7 +167,7 @@ Max的价值主要来自：
 
 完整比较：
 
-[Claude Pro和Max有什么区别？价格、额度与适合人群对比](./claude-pro-vs-max.md)
+[Claude Pro和Max有什么区别？价格、额度与适合人群对比](./claude-max-vs-pro.md)
 
 ---
 
@@ -346,7 +346,7 @@ Claude官方价格可能随：
 
 如果属于支付失败问题：
 
-[Claude Pro支付失败怎么办？银行卡被拒与订阅失败解决方法](./claude-payment-failed.md)
+[Claude Pro支付失败怎么办？银行卡被拒与订阅失败解决方法](./claude-pro-payment-failed.md)
 
 ---
 
@@ -825,11 +825,14 @@ MuyuGPT是独立第三方AI订阅服务平台，与Anthropic不存在官方隶�
 
 # 二十九、相关阅读
 
-- [Claude Pro和Max有什么区别？价格、额度与适合人群对比](./claude-pro-vs-max.md)
-- [Claude Pro支付失败怎么办？银行卡被拒与订阅失败解决方法](./claude-payment-failed.md)
+- [Claude Pro和Max有什么区别？价格、额度与适合人群对比](./claude-max-vs-pro.md)
+- [Claude Pro支付失败怎么办？银行卡被拒与订阅失败解决方法](./claude-pro-payment-failed.md)
 - [Claude代充安全吗？账号、Session与第三方订阅安全指南](./claude-recharge-safety.md)
+- [Claude Pro怎么取消？关闭自动续费指南](./claude-pro-cancel.md)
 - [2026 GPT充值 / ChatGPT Plus充值指南](../chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
 - [ChatGPT Plus和Pro有什么区别？](../chatgpt/chatgpt-plus-vs-pro.md)
+- [2026 Gemini充值 / Google AI Pro国内购买指南](../gemini/gemini-ai-pro-alipay-wechat-recharge.md)
+- [2026 Grok / SuperGrok国内购买指南](../grok/supergrok-alipay-wechat-recharge.md)
 
 ---
 
@@ -849,5 +852,6 @@ MuyuGPT自身Claude商品、人民币价格、付款方式、交付方式、订�
 
 ## 更新记录
 
+- **2026-08-13**：修正 Claude Pro / Max 对比与 Claude 支付失败文章内部链接，并补充 Claude 取消订阅、Gemini、Grok 相关阅读入口。
 - **2026-08-13**：重构Claude充值、Claude Pro充值、Claude Max充值、Claude国内购买、支付宝微信、Claude代充、Claude Code及账号安全等主题，并建立Claude内容集群内部导航。
 - **2026-08**：整理Claude Pro / Max国内购买及人民币付款相关内容。
