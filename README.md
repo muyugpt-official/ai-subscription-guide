@@ -110,41 +110,24 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 # Claude充值
 
-国内用户常见搜索：
+## 充值与国内购买
 
-**Claude充值、Claude Pro充值、Claude Max充值、Claude国内购买、Claude Pro国内购买、Claude支付宝充值、Claude微信充值、Claude代充。**
+- [Claude Pro / Max国内充值指南](./claude/claude-pro-alipay-wechat-recharge.md)
 
-## Claude Pro / Max 国内怎么购买？
+## 套餐与产品选择
 
-Claude 不同付费方案适合不同使用强度。
+- [Claude Pro是什么？功能与适合人群](./claude/claude-pro-guide.md)
+- [Claude Max和Pro有什么区别？](./claude/claude-max-vs-pro.md)
 
-| 套餐方向 | 更适合 |
-| --- | --- |
-| Claude Pro | 个人使用、编程、写作、长文本处理 |
-| Claude Max | 高频使用、开发、专业工作流 |
+## 支付、安全与取消
 
-购买之前建议确认：
+- [Claude Pro支付失败怎么办？](./claude/claude-pro-payment-failed.md)
+- [Claude代充安全吗？账号与第三方订阅安全说明](./claude/claude-recharge-safety.md)
+- [Claude Pro怎么取消？关闭自动续费指南](./claude/claude-pro-cancel.md)
 
-- 当前实际套餐
-- 使用周期
-- 当前价格
-- 账号地区和可用性
-- 支付方式
-- 账号控制权
-- 是否自动续费
-- 退款和售后规则
+👉 [查看 Claude Pro / Max 当前套餐](https://muyugpt.com/claude)
 
-## Claude相关指南
-
-- [Claude Pro / Max国内充值指南](./docs/claude/claude-pro-alipay-wechat-recharge.md)
-- [Claude Max和Pro有什么区别？](./docs/claude/claude-max-vs-pro.md)
-- [Claude Pro是什么？功能与适合人群指南](./docs/claude/claude-pro-guide.md)
-- [Claude Pro支付失败怎么办？](./docs/claude/claude-pro-payment-failed.md)
-- [Claude代充安全吗？账号与第三方订阅安全说明](./docs/claude/claude-recharge-safety.md)
-- [Claude Pro怎么取消？关闭自动续费指南](./docs/claude/claude-pro-cancel.md)
-
-👉 **[查看 Claude Pro / Max 当前套餐](https://muyugpt.com/claude)**
-
+---
 # Gemini充值
 
 国内用户常见搜索：
@@ -177,8 +160,6 @@ Claude 不同付费方案适合不同使用强度。
 - [Google AI Pro怎么取消？Gemini关闭自动续费与退款指南](./docs/gemini/google-ai-pro-cancel.md)
 
 👉 **[查看 Gemini / Google AI Pro 当前套餐](https://muyugpt.com/gemini)**
-
----
 
 # Grok / SuperGrok充值
 
