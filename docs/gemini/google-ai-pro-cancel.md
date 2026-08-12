@@ -1,240 +1,734 @@
-# Google AI Pro 如何取消订阅？网页、Android 和 iPhone 完整指南
+# 2026 Google AI Pro怎么取消？Gemini取消订阅、关闭自动续费与退款指南
 
-> 最后更新时间：2026 年 7 月  
-> Google AI Pro 的套餐名称、权益、付款方式和取消入口可能随地区及购买渠道变化。请以 Google One、Gemini 或应用商店实际显示的信息为准。
+> **最后更新：2026 年 8 月 13 日**
+>
+> **维护方：MuyuGPT**
+>
+> **说明：** Google AI Pro / Gemini 订阅的取消入口、续费规则、退款条件和购买渠道可能变化。本文主要解决 Google AI Pro 怎么取消、Gemini 怎么关闭自动续费、取消后还能不能继续使用、退款怎么处理等问题。最终规则请以 Google 当前官方页面为准。
 
-订阅 Google AI Pro 后，如果暂时不想继续使用，最常见的问题是：
+国内用户购买 Google AI Pro / Gemini 相关付费方案以后，经常搜索：
 
-- Google AI Pro 怎么取消自动续费？
-- 在 Gemini 里找不到取消入口怎么办？
-- iPhone 和 Android 的取消方法一样吗？
-- 取消后还能使用多久？
-- 取消订阅会不会删除 Gmail、Drive 或 Google Photos 的文件？
+**Google AI Pro怎么取消、Gemini怎么取消订阅、Gemini关闭自动续费、Google AI Pro取消续费、Gemini退款、Google AI Pro退款、Google AI Pro怎么退订。**
 
-本文按购买渠道，整理 Google AI Pro 的取消步骤和注意事项。
+先说结论：
 
----
+> **Google AI Pro 可以通过 Gemini 的订阅管理入口进入 Google One 设置取消。取消通常是停止下一个周期继续收费，不等于立即删除当前已付费权益。**
 
-## 一、取消订阅前，先确认购买渠道
+另外必须区分：
 
-Google AI Pro 的订阅通常与 Google One 会员管理有关，但具体取消入口取决于你最初在哪里购买。
+- **取消订阅**
+- **关闭自动续费**
+- **立即失去会员**
+- **申请退款**
 
-常见购买渠道包括：
-
-1. Gemini 网页或 Google One 网页；
-2. Android 手机上的 Gemini App、Google One App 或 Google Play；
-3. iPhone 或 iPad 上的 App Store；
-4. 特殊运营商、套餐或第三方账单渠道。
-
-最简单的判断方式是查看：
-
-- Gmail 中的付款或订阅邮件；
-- Google Play 订单记录；
-- Apple App Store 订阅记录；
-- Google One 的会员和付款页面；
-- 银行账单中的商户名称。
-
-**不要只删除 Gemini App。删除应用不会自动取消订阅。**
+这四件事不是同一个意思。
 
 ---
 
-## 二、网页端如何取消 Google AI Pro？
+## Google AI Pro取消订阅快速判断
 
-如果你通过 Gemini 网页或 Google One 网页订阅，可以按以下步骤操作：
-
-1. 登录购买时使用的 Google 账号；
-2. 打开 [Gemini](https://gemini.google.com/)；
-3. 找到“设置和帮助”；
-4. 点击“管理订阅”；
-5. 页面会跳转到 Google One 会员设置；
-6. 点击“取消会员资格”；
-7. 按页面提示确认取消。
-
-也可以直接进入 Google One 的设置页面，查找“取消会员资格”入口。
-
-取消成功后，页面通常会显示下一个计费日不会再扣款。建议截图保存取消结果，并检查邮箱是否收到确认邮件。
+| 你的需求 | 应该做什么 |
+| --- | --- |
+| 不想下个月继续扣款 | 取消当前订阅 / 关闭续费 |
+| 想继续用到本周期结束 | 取消后通常等待当前周期结束 |
+| 想马上停止使用 | 需要看当前官方账户处理方式 |
+| 想退回已经支付的钱 | 单独查看退款政策 |
+| 找不到取消入口 | 从Gemini进入Manage subscription |
+| Android购买 | 检查Google One / Google Play订阅 |
+| iPhone / iPad购买 | 检查Apple订阅管理 |
+| 第三方购买 | 联系原第三方订单平台 |
 
 ---
 
-## 三、Android 手机如何取消 Google AI Pro？
+# 一、Google AI Pro怎么取消？
 
-如果你在 Android 手机上订阅，可以使用 Gemini App 或 Google One App 管理。
+Google 当前官方说明提供的一个常见入口是：
 
-### 方法一：通过 Gemini App
+1. 打开 Gemini
+2. 进入 **Settings & help**
+3. 选择 **Manage subscription**
+4. 进入 Google One 订阅管理
+5. 找到取消套餐 / Cancel membership
+6. 根据页面提示确认取消
 
-1. 打开 Gemini App；
-2. 点击右上角头像或账号首字母；
-3. 点击“管理订阅”；
-4. 页面会打开 Google One 设置；
-5. 在“取消套餐”区域点击“取消会员资格”；
-6. 根据页面提示完成确认。
+不同设备和地区页面可能略有区别。
 
-### 方法二：通过 Google One App
+最重要的是：
 
-1. 打开 Google One App；
-2. 进入设置；
-3. 查找会员、订阅或套餐管理；
-4. 选择取消会员资格；
-5. 确认取消。
-
-如果你是通过 Google Play 付款，也可以到 Google Play 的“付款和订阅”页面查看订阅状态。
+> **通过原订阅账号和原购买渠道管理。**
 
 ---
 
-## 四、iPhone 或 iPad 如何取消 Google AI Pro？
+# 二、Google AI Pro取消以后会马上不能用吗？
 
-如果你是在 Apple App Store 内订阅，订阅和扣款通常由 Apple 管理。
+一般不应该把“取消”理解成：
 
-这时应通过 Apple 的订阅管理页面取消：
+> 点击取消以后立刻失去全部权益。
 
-1. 打开 iPhone 或 iPad 的“设置”；
-2. 点击顶部的 Apple ID；
-3. 点击“订阅”；
-4. 找到 Google One 或相关订阅；
-5. 点击“取消订阅”；
-6. 按提示确认。
+Google 官方当前说明指出，取消后，AI Pro 方案会在当前方案结束时失去对应权益。:contentReference[oaicite:1]{index=1}
 
-如果在 Apple 的订阅列表中找不到对应项目，说明你可能不是通过 Apple App Store 购买的。此时应回到 Google One 或 Gemini 中查看订阅来源。
+所以更准确地理解是：
 
----
+> **取消主要用于停止下一周期继续续费。**
 
-## 五、取消后会立刻失效吗？
-
-通常不会立刻失效。
-
-取消订阅的含义一般是：停止下一次自动续费。当前已经付费的服务周期结束前，通常仍可以继续使用相应权益。
-
-但具体结束时间应以 Google One 或购买页面显示的日期为准。
-
-Google 官方说明中提到，当 Google AI Pro 计划结束后，用户将无法继续使用部分 Pro 专属功能，以及与计划相关的 Google One 会员权益。
+实际可使用到什么时候，以你当前Google账号订阅页面显示的结束日期为准。
 
 ---
 
-## 六、取消 Google AI Pro 后，会影响 Gmail、Drive 和 Google Photos 吗？
+# 三、Google AI Pro取消和关闭自动续费是一回事吗？
 
-这取决于你取消后保留的 Google 存储空间额度，以及你当前实际使用的存储容量。
+对大多数用户来说，实际目标通常都是：
 
-Google AI Pro 可能包含额外的 Google One 存储空间。如果取消后你的可用存储空间减少，而已使用容量超过新的额度，Google Drive、Gmail 和 Google Photos 可能受到影响。
+> **不要下个周期继续扣款。**
 
-取消前建议先检查：
+所以取消会员通常会停止后续续费。
 
-- 当前已经使用多少 Google 存储空间；
-- 取消后将保留多少免费或其他套餐存储空间；
-- 是否需要先下载重要文件；
-- 是否需要改为更低档的 Google One 套餐，而不是完全取消。
+但页面实际名称可能显示：
 
-如果只是想降低费用，可以先查看是否有“降级套餐”选项。
+- Cancel membership
+- Cancel plan
+- Cancel subscription
+- Manage subscription
 
----
-
-## 七、取消后还能继续使用 Gemini 吗？
-
-通常仍可以使用 Gemini 的免费版本，但无法继续使用需要 Google AI Pro 才提供的功能和额度。
-
-实际可用功能会因地区、账号状态和 Google 当前产品规则而不同。
-
-取消前，如果你有重要的 Pro 对话、文件或内容，建议自行保存重要资料。
+最终应以你当前账号页面为准。
 
 ---
 
-## 八、取消订阅等于退款吗？
+# 四、Gemini怎么关闭自动续费？
 
-不等于。
+如果你的Gemini高级权益来自Google AI Pro：
 
-取消订阅通常只会停止下一次自动续费，不代表已经支付的本期费用会自动退回。
+可以从Gemini进入：
 
-如果需要申请退款，应根据最初购买渠道处理：
+**Settings & help → Manage subscription**
 
-- Google One 或 Google Play 购买：查看 Google 的退款和取消政策；
-- Apple App Store 购买：向 Apple 提交退款申请；
-- 其他购买渠道：联系实际收款方。
+再进入Google One相关订阅管理页面处理。
 
-退款资格、退款金额和到账时间取决于购买地区、订单状态和对应平台规则。
+不要只在Gemini聊天页面里找“关闭会员”的按钮。
 
----
-
-## 九、找不到取消按钮怎么办？
-
-可以按以下顺序排查：
-
-1. 确认登录的是付款时使用的 Google 账号；
-2. 检查是否有多个 Google 账号；
-3. 查看 Gmail 中的订阅收据，确认购买渠道；
-4. 打开 Google One 的设置页面查看会员状态；
-5. 检查 Google Play 或 Apple App Store 的订阅记录；
-6. 确认订阅是否已被取消或已经到期；
-7. 仍无法解决时，通过 Google One 或 Google 支持入口寻求帮助。
-
-不要把 Google 账号密码、验证码、恢复代码或完整银行卡信息发送给任何陌生人。
+真正的订阅管理通常在Google账户 / Google One相关设置中完成。:contentReference[oaicite:2]{index=2}
 
 ---
 
-## 常见问题
+# 五、Google One里怎么取消Google AI Pro？
 
-### 删除 Gemini App 能取消 Google AI Pro 吗？
+如果当前AI方案由Google One管理，可以在Google One订阅设置中查看当前会员。
 
-不能。
+Google官方取消Google One会员的流程核心是：
 
-删除 App 不会停止自动续费。必须在 Google One、Google Play 或 Apple App Store 的订阅管理页面中取消。
+1. 打开Google One
+2. 进入设置
+3. 找到取消会员
+4. 确认取消
 
-### 取消后下个月还会扣费吗？
-
-如果取消成功，并且在下一个账单日之前完成，一般不会再进入下一周期扣费。
-
-建议在取消后检查确认页面和邮箱通知。
-
-### 可以只降低套餐，不完全取消吗？
-
-可以先在 Google One 中查看“更改会员方案”或“降级选项”。
-
-如果你仍需要云存储空间，降级可能比完全取消更合适。
-
-### 我在 Android 上使用，但找不到取消入口怎么办？
-
-有可能订阅不是通过 Android 或 Google Play 购买，而是通过网页或 Apple App Store 购买。
-
-应先检查付款邮件、Google One 设置和应用商店订阅记录。
-
-### 取消后能马上退款吗？
-
-不一定。
-
-取消和退款是不同流程。退款需按付款渠道和对应平台政策单独处理。
+Android上的Google官方帮助目前也是这个逻辑。:contentReference[oaicite:3]{index=3}
 
 ---
 
-## 总结
+# 六、Android怎么取消Google AI Pro？
 
-取消 Google AI Pro 的关键，是先确认购买渠道：
+如果在Android设备上使用Gemini：
 
-- 网页端订阅：通过 Gemini 或 Google One 设置取消；
-- Android 订阅：通过 Gemini App、Google One App 或 Google Play 管理；
-- iPhone 和 iPad 订阅：通过 Apple 的订阅管理页面取消；
-- 删除 App 不等于取消自动续费；
-- 取消订阅不等于自动退款；
-- 取消前应检查 Google 存储空间，避免影响 Drive、Gmail 和 Photos 的使用。
+可以尝试：
 
----
+1. 打开Gemini App
+2. 点击头像
+3. 进入 **Manage subscriptions**
+4. 进入Google One设置
+5. 找到 **Cancel membership**
+6. 根据页面提示确认
 
-## 相关阅读
-
-- [Google AI Pro 怎么订阅？Gemini 付费版购买、功能与取消续费指南](google-ai-pro-guide.md)
-- [ChatGPT Plus 如何取消自动续费？](../chatgpt/chatgpt-plus-cancel.md)
-- [ChatGPT Plus 如何申请退款？](../chatgpt/chatgpt-plus-refund.md)
+Google官方当前Android说明明确提供了这个入口。:contentReference[oaicite:4]{index=4}
 
 ---
 
-## 官方参考
+# 七、电脑网页版怎么取消Google AI Pro？
 
-- [Google One：获取或取消 Google AI Pro 会员](https://support.google.com/googleone/answer/16476811)
-- [Google One：取消 Google One 会员](https://support.google.com/googleone/answer/9056360)
+网页版可以从Gemini进入：
+
+1. 打开Gemini
+2. 进入 **Settings & help**
+3. 点击 **Manage subscription**
+4. 进入Google One订阅设置
+5. 找到取消方案
+6. 按页面提示完成
+
+Google官方当前桌面版说明就是从Gemini跳转到Google One管理。:contentReference[oaicite:5]{index=5}
 
 ---
 
-## 更多 AI 订阅与使用教程
+# 八、iPhone / iPad怎么取消？
 
-更多 ChatGPT、Claude、Gemini 和 Grok 相关教程，可访问：
+先确认你到底通过谁购买。
 
-[MuyuGPT｜AI 订阅与使用指南](https://muyugpt.com/)
+如果订阅是通过Apple App Store建立：
 
-> 说明：本文由 MuyuGPT 整理。MuyuGPT 是独立第三方平台，与 Google、OpenAI、Anthropic、xAI 等公司不存在官方隶属关系。产品价格、功能、付款方式和服务政策可能发生变化，请以各服务商官方页面为准。
+通常应该在Apple的订阅管理里处理。
+
+也就是说：
+
+> **在哪里买，就优先在哪里取消。**
+
+不要在Google页面找半天，却忽略原订阅其实由Apple管理。
+
+具体以Apple当前订阅页面实际显示为准。
+
+---
+
+# 九、取消Google AI Pro会删除Gemini聊天记录吗？
+
+取消会员和删除Google账号不是同一件事。
+
+一般来说：
+
+> **取消付费套餐 ≠ 删除Google账号。**
+
+但套餐结束以后，哪些高级功能、额度或附加权益会失效，应以Google当前官方说明为准。
+
+涉及：
+
+- Gemini聊天数据
+- Gmail
+- Drive
+- Photos
+- Google One存储
+
+等内容时，不要自行假设一定删除或一定保留。
+
+查看自己当前Google账号页面最稳妥。
+
+---
+
+# 十、取消后Google Drive存储会怎么样？
+
+如果你的AI套餐同时包含Google One存储权益，这一点尤其要注意。
+
+取消或降级以后：
+
+> **你的存储上限可能发生变化。**
+
+如果账户当前使用的存储量高于取消后的新上限，可能影响后续：
+
+- 上传文件
+- Gmail
+- Google Drive
+- Google Photos
+
+等服务。
+
+因此取消之前建议先查看：
+
+- 当前存储容量
+- 已使用容量
+- 取消后的方案
+- 新的存储上限
+
+不要只关注Gemini本身。
+
+---
+
+# 十一、取消Google AI Pro后还能继续用Gemini吗？
+
+通常仍然可以继续使用Gemini当前免费层级允许的功能。
+
+但付费方案提供的：
+
+- 更高额度
+- 高级模型
+- 高级工具
+- 其他Google AI权益
+
+在付费周期结束以后可能失效。
+
+具体以当前Google套餐规则为准。
+
+---
+
+# 十二、Google AI Pro取消后还能用到什么时候？
+
+最准确的答案是：
+
+> **看当前Google账号订阅页面显示的结束日期。**
+
+Google官方说明表明，AI Pro计划结束时才会失去该计划对应的权益。:contentReference[oaicite:6]{index=6}
+
+不要根据别人截图里的日期推断自己的账号。
+
+---
+
+# 十三、取消以后还会继续扣款吗？
+
+如果取消成功，并且页面已经确认：
+
+- Subscription cancelled
+- Membership cancelled
+- Auto-renewal off
+
+等状态，
+
+通常就不应该再按照原计划自动续费。
+
+但建议保存：
+
+- 取消确认页面
+- 确认邮件
+- 当前结束日期
+
+避免后续自己记不清楚是否真的完成操作。
+
+---
+
+# 十四、为什么取消以后还是显示Google AI Pro？
+
+这不一定是取消失败。
+
+可能是：
+
+> **当前已支付周期还没有结束。**
+
+如果你取消的是下一周期续费，那么在本周期结束前，账号仍然可能继续显示当前AI Pro权益。
+
+所以判断取消是否成功，不要只看：
+
+> “为什么Pro还在？”
+
+而应该看：
+
+> **下次续费是否已经关闭。**
+
+---
+
+# 十五、可以马上取消刚买的Google AI Pro吗？
+
+可以进入订阅页面查看当前可用的取消选项。
+
+但：
+
+> **取消订阅不等于自动退回刚支付的费用。**
+
+退款属于另一个问题。
+
+如果只是担心下个月继续扣款：
+
+可以尽早关闭后续续费。
+
+---
+
+# 十六、Google AI Pro取消以后会退款吗？
+
+**不能这样直接判断。**
+
+取消订阅和退款属于两套逻辑。
+
+Google One官方当前有单独的购买、取消和退款政策说明。:contentReference[oaicite:7]{index=7}
+
+是否可以退款，可能取决于：
+
+- 购买渠道
+- 国家或地区
+- 付款时间
+- 具体商品
+- 退款政策
+- 是否通过Google Play
+- 是否通过Apple
+- 是否属于特殊情况
+
+所以：
+
+> **不要把“可以取消”理解成“取消以后自动退款”。**
+
+---
+
+# 十七、Google AI Pro怎么申请退款？
+
+首先确认购买渠道。
+
+## Google直接购买
+
+应该查看Google当前退款和支持入口。
+
+## Google Play购买
+
+按照Google Play当前退款政策处理。
+
+## Apple App Store购买
+
+应通过Apple当前退款流程处理。
+
+## 第三方购买
+
+应该联系原第三方订单服务商。
+
+退款对象应该是：
+
+> **你实际付款给的那一方。**
+
+---
+
+# 十八、Gemini退款一定能成功吗？
+
+不能保证。
+
+退款是否批准取决于：
+
+- 原购买渠道
+- 付款时间
+- 当前政策
+- 地区
+- 实际情况
+
+所以文章不应该承诺：
+
+> “取消必退。”
+
+也不应该承诺：
+
+> “24小时内一定退款。”
+
+这种表述风险很高。
+
+---
+
+# 十九、退款到账一般需要多久？
+
+没有适用于所有渠道的固定时间。
+
+可能受到：
+
+- Google处理时间
+- 支付方式
+- 银行
+- Apple
+- Google Play
+- 原支付渠道
+
+影响。
+
+所以应该区分：
+
+### 退款申请已通过
+
+和：
+
+### 钱实际回到账户
+
+这是两个时间点。
+
+---
+
+# 二十、Google AI Pro试用期怎么取消？
+
+如果当前账户处于试用：
+
+应该在试用转换为正式付费之前检查：
+
+- 试用结束日期
+- 下一次付款日期
+- 当前续费状态
+
+如果不想继续：
+
+> **在当前账号的订阅管理中取消后续续费。**
+
+不要等到已经扣款以后，才第一次查看试用结束日期。
+
+---
+
+# 二十一、取消免费试用会马上失效吗？
+
+具体以当前Google账号试用页面显示为准。
+
+不同试用活动的规则可能不同。
+
+所以不要长期依赖某一篇旧教程写：
+
+> “取消后一定还能用到第X天。”
+
+直接查看当前账号的：
+
+- Trial end date
+- Renewal date
+- Membership status
+
+最准确。
+
+---
+
+# 二十二、Google AI Pro可以降级吗？
+
+部分情况下，用户可能不是想完全取消Google One，而是想：
+
+> **换成更低档方案。**
+
+具体有没有降级选项、可以换成什么套餐，应以当前Google One订阅管理页面实际显示为准。
+
+不要直接删除账号或者重复购买另一个套餐。
+
+---
+
+# 二十三、Google AI Pro取消和Google One取消是什么关系？
+
+Google AI Pro目前与Google One订阅管理存在关联。
+
+因此从Gemini点击：
+
+**Manage subscription**
+
+会进入Google One相关设置。:contentReference[oaicite:8]{index=8}
+
+所以用户搜索：
+
+- Gemini取消会员
+- Google AI Pro取消
+- Google One AI Pro取消
+
+很多时候是在处理同一个订阅关系。
+
+---
+
+# 二十四、取消Google AI Pro会影响Google One吗？
+
+需要看你当前具体方案。
+
+如果你的AI权益本身就是Google One套餐的一部分：
+
+取消或变更方案可能同时影响：
+
+- AI权益
+- 存储
+- 其他Google One权益
+
+所以取消前不要只看Gemini。
+
+应该查看整个套餐说明。
+
+---
+
+# 二十五、为什么找不到取消按钮？
+
+常见原因包括：
+
+- 登录错Google账号
+- 订阅由Apple管理
+- 订阅由Google Play管理
+- 已经取消过
+- 当前不是付费账号
+- 使用的是家庭成员权益
+- 当前页面入口发生变化
+
+第一步永远是：
+
+> **确认原购买账号和原购买渠道。**
+
+---
+
+# 二十六、Google账号很多，怎么确定哪个订阅了AI Pro？
+
+可以检查：
+
+- Gemini当前登录账号
+- Google One页面
+- Google付款记录
+- 订阅管理
+- 付款确认邮件
+
+不要在多个Google账号之间来回切换后凭感觉判断。
+
+尤其是浏览器同时登录多个Gmail时，很容易看错账号。
+
+---
+
+# 二十七、取消以后可以重新订阅吗？
+
+通常可以根据Google当前提供的套餐重新购买。
+
+但：
+
+- 价格
+- 优惠
+- 试用资格
+- 套餐权益
+
+可能已经发生变化。
+
+不要假设重新订阅一定恢复原来的优惠条件。
+
+---
+
+# 二十八、取消后以前的优惠还能恢复吗？
+
+不能保证。
+
+例如：
+
+- 首月优惠
+- 学生活动
+- 设备赠送
+- 试用期
+- 特殊促销
+
+可能存在一次性资格。
+
+取消以后重新订阅：
+
+> **不一定还能拿到相同优惠。**
+
+所以如果当前属于特殊活动，取消之前先看活动规则。
+
+---
+
+# 二十九、第三方购买的Google AI Pro怎么取消？
+
+如果通过第三方服务购买：
+
+不要直接假设自己和Google官方月付订阅完全一样。
+
+先确认第三方商品到底是：
+
+- 本人账号相关服务
+- 成品账号
+- 固定周期商品
+- 自动续费商品
+- 一次性交付商品
+
+如果属于第三方订单：
+
+> **按照原商品和订单规则管理续费。**
+
+---
+
+# 三十、MuyuGPT购买的Gemini怎么取消？
+
+MuyuGPT是独立第三方AI订阅服务平台，不是Google官方渠道。
+
+如果通过MuyuGPT购买：
+
+应该先检查：
+
+- 商品类型
+- 使用周期
+- 是否自动续费
+- 当前订单
+- 商品说明
+
+如果商品本身不是自动续费，就不存在“关闭Google自动续费”这个完全相同的问题。
+
+实际规则以订单和产品页面为准：
+
+👉 **[查看 MuyuGPT Gemini当前套餐与订单说明](https://muyugpt.com/gemini)**
+
+---
+
+# 三十一、取消订阅之前检查清单
+
+- [ ] 我确认了正确Google账号
+- [ ] 我知道原购买渠道
+- [ ] 我知道当前套餐
+- [ ] 我知道当前周期结束日期
+- [ ] 我知道下一次续费日期
+- [ ] 我知道取消后哪些权益会失效
+- [ ] 我检查了Google One存储
+- [ ] 我知道取消不等于退款
+- [ ] 我知道退款应该向谁申请
+- [ ] 我保存了取消确认信息
+- [ ] 如果是第三方商品，我先看了订单规则
+
+---
+
+# 三十二、常见问题FAQ
+
+### Google AI Pro怎么取消？
+
+可以从Gemini进入 **Settings & help → Manage subscription**，再进入Google One订阅管理取消。:contentReference[oaicite:9]{index=9}
+
+### Gemini怎么关闭自动续费？
+
+如果Gemini高级权益来自Google AI Pro，应通过原订阅管理入口取消后续续费。
+
+### Google AI Pro取消后还能用吗？
+
+通常可继续使用到当前已付费周期结束，具体以账号页面显示为准。:contentReference[oaicite:10]{index=10}
+
+### Google AI Pro取消会马上降级吗？
+
+不一定。取消通常用于停止下个周期续费。
+
+### 取消后为什么还是Pro？
+
+可能当前已付费周期还没有结束。
+
+### Google AI Pro取消会退款吗？
+
+不一定。取消与退款是两个不同流程，应以Google当前退款政策及原购买渠道为准。:contentReference[oaicite:11]{index=11}
+
+### Gemini退款怎么申请？
+
+根据原购买渠道处理。Google、Google Play、Apple和第三方订单的退款入口可能不同。
+
+### Google AI Pro退款多久到账？
+
+没有统一固定时间，取决于原支付渠道及退款处理流程。
+
+### Google AI Pro试用怎么取消？
+
+进入当前Google账号订阅管理，检查试用结束日期和续费状态。
+
+### 取消试用后还能继续用吗？
+
+以当前试用页面显示为准，不同活动规则可能不同。
+
+### Google AI Pro可以降级吗？
+
+看当前Google One订阅管理页面是否提供降级选项。
+
+### 取消Google AI Pro会影响Google Drive吗？
+
+如果套餐包含Google One存储权益，取消或降级可能影响存储上限，需要提前检查当前使用量。
+
+### Google AI Pro取消会删除Gmail吗？
+
+取消会员和删除Google账号不是同一件事，但存储及套餐权益变化应以Google当前规则为准。
+
+### 找不到取消按钮怎么办？
+
+先确认登录账号和原购买渠道，尤其检查是否通过Apple或Google Play购买。
+
+### MuyuGPT购买的Gemini怎么取消？
+
+先查看MuyuGPT实际商品和订单规则，第三方商品不一定属于Google官方自动续费订阅。
+
+### MuyuGPT是Google官方吗？
+
+不是。
+
+MuyuGPT是独立第三方AI订阅服务平台，与Google不存在官方隶属、授权或合作关系。
+
+---
+
+# 三十三、相关阅读
+
+- [2026 Google AI Pro是什么？功能、适合人群与Gemini关系](./google-ai-pro-guide.md)
+- [2026 Gemini充值指南：Google AI Pro国内购买、支付宝微信付款与代充说明](./gemini-ai-pro-alipay-wechat-recharge.md)
+- [2026 Gemini多少钱？Google AI Pro / Ultra价格与套餐选择指南](./gemini-ai-pro-price-guide.md)
+- [2026 Gemini支付失败怎么办？Google AI Pro银行卡被拒与订阅失败](./gemini-payment-failed.md)
+- [2026 Gemini代充安全吗？Google账号与成品号安全指南](./gemini-recharge-safety.md)
+
+---
+
+# 第三方身份声明
+
+MuyuGPT是面向中文用户的独立第三方AI会员订阅指南与订阅协助平台。
+
+MuyuGPT与Google不存在官方隶属、授权或合作关系。
+
+本文中的Google AI Pro、Gemini、Google One、Google、Google Play、Google Drive等名称，仅用于说明相关产品和订阅管理问题。
+
+Google官方取消规则、退款政策、套餐权益、价格、续费规则和存储政策，应以Google当前官方信息及用户实际账号页面为准。
+
+MuyuGPT自身Gemini相关商品、使用周期、是否自动续费、退款及售后范围，以MuyuGPT当前产品页面和实际订单规则为准。
+
+---
+
+## 更新记录
+
+- **2026-08-13**：重构Google AI Pro取消订阅专题，覆盖Gemini关闭自动续费、Google One取消、取消后使用期限、退款、试用、降级、存储及第三方订单区别等搜索问题。
