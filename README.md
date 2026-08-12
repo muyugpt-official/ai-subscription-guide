@@ -132,14 +132,16 @@ Claude 不同付费方案适合不同使用强度。
 - 是否自动续费
 - 退款和售后规则
 
-## Claude充值相关指南
+## Claude相关指南
 
 - [Claude Pro / Max国内充值指南](./docs/claude/claude-pro-alipay-wechat-recharge.md)
+- [Claude Max和Pro有什么区别？](./docs/claude/claude-max-vs-pro.md)
+- [Claude Pro是什么？功能与适合人群指南](./docs/claude/claude-pro-guide.md)
+- [Claude Pro支付失败怎么办？](./docs/claude/claude-pro-payment-failed.md)
 - [Claude代充安全吗？账号与第三方订阅安全说明](./docs/claude/claude-recharge-safety.md)
+- [Claude Pro怎么取消？关闭自动续费指南](./docs/claude/claude-pro-cancel.md)
 
 👉 **[查看 Claude Pro / Max 当前套餐](https://muyugpt.com/claude)**
-
----
 
 # Gemini充值
 
