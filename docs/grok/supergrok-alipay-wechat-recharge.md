@@ -1,9 +1,13 @@
 # 2026 Grok充值 / SuperGrok充值指南：国内购买、支付宝微信付款与订阅方式
-
 > **最后更新：2026 年 8 月 13 日**
->
 > **维护方：MuyuGPT**
->
+> **MuyuGPT AI订阅知识库**
+> [返回仓库首页](../../README.md) ·
+> [ChatGPT充值](../chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md) ·
+> [Claude充值](../claude/claude-pro-alipay-wechat-recharge.md) ·
+> [Gemini充值](../gemini/gemini-ai-pro-alipay-wechat-recharge.md) ·
+> [Grok充值](./supergrok-alipay-wechat-recharge.md) ·
+> [MuyuGPT官网](https://muyugpt.com)
 > **商业关系说明：** MuyuGPT 是独立第三方 AI 订阅服务平台，并非 xAI 或 X 官方渠道。本文同时介绍官方订阅与第三方订阅协助。涉及 MuyuGPT 自身服务的部分存在商业关联，我们会明确说明。
 
 国内用户想购买 Grok / SuperGrok 时，经常搜索：
