@@ -98,15 +98,22 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 > **不要短时间连续重复付款，先确认失败原因。**
 
-## ChatGPT充值相关指南
+## ChatGPT / GPT充值相关指南
 
 - [2026 GPT充值 / ChatGPT Plus、Pro国内充值指南](./docs/chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
-- [ChatGPT Plus支付失败怎么办](./docs/chatgpt/chatgpt-plus-payment-failed.md)
-- [GPT / ChatGPT代充安全吗](./docs/chatgpt/chatgpt-plus-recharge-safety.md)
-- [ChatGPT Plus和Pro有什么区别](./docs/chatgpt/chatgpt-plus-vs-pro.md)
+- [ChatGPT Plus是什么？功能与适合人群](./docs/chatgpt/chatgpt-plus-guide.md)
+- [ChatGPT Plus和Pro有什么区别？](./docs/chatgpt/chatgpt-plus-vs-pro.md)
+- [ChatGPT Plus和OpenAI API有什么区别？](./docs/chatgpt/chatgpt-plus-vs-api.md)
+- [GPT / ChatGPT充值多少钱？套餐价格与选择指南](./docs/chatgpt/chatgpt-recharge-price-guide.md)
+- [ChatGPT Plus支付失败怎么办？](./docs/chatgpt/chatgpt-plus-payment-failed.md)
+- [GPT / ChatGPT代充安全吗？](./docs/chatgpt/chatgpt-plus-recharge-safety.md)
 - [ChatGPT充值多久到账？订单与未到账处理](./docs/chatgpt/chatgpt-recharge-arrival-time.md)
+- [ChatGPT充值和官方订阅有什么区别？](./docs/chatgpt/chatgpt-recharge-vs-official-subscription.md)
+- [ChatGPT Plus怎么取消？关闭自动续费指南](./docs/chatgpt/chatgpt-plus-cancel.md)
 
 👉 **[查看 ChatGPT Plus / Pro 当前套餐](https://muyugpt.com/chatgpt)**
+
+👉 **[查看全部 AI 订阅文章目录](./docs/README.md)**
 
 ---
 
