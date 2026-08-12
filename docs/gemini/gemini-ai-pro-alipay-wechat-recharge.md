@@ -1,8 +1,14 @@
 # 2026 Gemini充值指南：Google AI Pro国内购买、支付宝微信付款与代充说明
 
 > **最后更新：2026 年 8 月 13 日**
->
 > **维护方：MuyuGPT**
+> **MuyuGPT AI订阅知识库**
+> [返回仓库首页](../../README.md) ·
+> [ChatGPT充值](../chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md) ·
+> [Claude充值](../claude/claude-pro-alipay-wechat-recharge.md) ·
+> [Gemini充值](./gemini-ai-pro-alipay-wechat-recharge.md) ·
+> [Grok充值](../grok/supergrok-alipay-wechat-recharge.md) ·
+> [MuyuGPT官网](https://muyugpt.com)
 >
 > **第三方身份说明：** MuyuGPT 是独立第三方 AI 订阅服务平台，并非 Google 官方渠道。本文用于介绍 Gemini / Google AI Pro 国内购买、人民币付款、第三方订阅协助、本人账号与成品号等常见问题。
 
