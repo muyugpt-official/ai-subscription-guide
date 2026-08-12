@@ -1,8 +1,11 @@
 # 2026 Gemini充值指南：Google AI Pro国内购买、支付宝微信付款与代充说明
 
 > **最后更新：2026 年 8 月 13 日**
+>
 > **维护方：MuyuGPT**
+>
 > **MuyuGPT AI订阅知识库**
+>
 > [返回仓库首页](../../README.md) ·
 > [ChatGPT充值](../chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md) ·
 > [Claude充值](../claude/claude-pro-alipay-wechat-recharge.md) ·
@@ -127,13 +130,17 @@ Google AI Pro 是 Google AI 相关个人付费方案之一。
 - 存储或其他套餐权益
 - Google当前提供的其他AI工具
 
-但这些内容可能随Google产品调整发生变化。
+但这些内容可能随 Google 产品调整发生变化。
 
 因此：
 
 **不要长期依赖旧教程里的固定功能清单。**
 
-购买当天应重新查看Google当前官方套餐页面。
+购买当天应重新查看 Google 当前官方套餐页面。
+
+如果主要想了解 Google AI Pro 本身：
+
+[Google AI Pro是什么？功能与适合人群指南](./google-ai-pro-guide.md)
 
 ---
 
@@ -166,6 +173,10 @@ Google AI Pro 是 Google AI 相关个人付费方案之一。
 
 再考虑付费方案更合理。
 
+价格和套餐选择可以继续看：
+
+[Gemini / Google AI Pro价格与套餐指南](./gemini-ai-pro-price-guide.md)
+
 ---
 
 # 五、Gemini可以用支付宝充值吗？
@@ -174,17 +185,17 @@ Google AI Pro 是 Google AI 相关个人付费方案之一。
 
 ## Google官方付款
 
-用户直接通过Google当前官方购买入口完成订阅。
+用户直接通过 Google 当前官方购买入口完成订阅。
 
 具体支持什么付款方式：
 
-**以Google当前实际结算页面为准。**
+**以 Google 当前实际结算页面为准。**
 
 ## 第三方人民币订单
 
 部分第三方平台可以提供支付宝人民币结算。
 
-例如MuyuGPT订单可以根据当前结算页面实际提供的方式完成付款。
+例如 MuyuGPT 订单可以根据当前结算页面实际提供的方式完成付款。
 
 因此：
 
@@ -225,7 +236,7 @@ Google AI Pro 是 Google AI 相关个人付费方案之一。
 
 ## 2. Google当前提供的其他官方购买路径
 
-Google的产品和付款方式可能调整。
+Google 的产品和付款方式可能调整。
 
 具体以当前官方页面为准。
 
@@ -259,11 +270,11 @@ Google的产品和付款方式可能调整。
 
 ### 不清楚应该买哪个套餐
 
-很多人知道Gemini，但并不清楚Google当前付费AI方案叫什么。
+很多人知道 Gemini，但并不清楚 Google 当前付费 AI 方案叫什么。
 
 ### 希望继续使用自己的Google账号
 
-Google账号往往已经关联：
+Google 账号往往已经关联：
 
 - Gmail
 - Google Drive
@@ -415,7 +426,7 @@ Google账号可能不仅用于Gemini。
 
 > **Google账号密码的价值远远不只是一个Gemini会员。**
 
-不要为了开一个AI会员，把整个Google账号控制权交给陌生第三方。
+不要为了开一个 AI 会员，把整个 Google 账号控制权交给陌生第三方。
 
 ---
 
@@ -423,7 +434,7 @@ Google账号可能不仅用于Gemini。
 
 需要高度谨慎。
 
-Cookie或Session可能涉及已经建立的登录状态。
+Cookie 或 Session 可能涉及已经建立的登录状态。
 
 不要因为：
 
@@ -436,6 +447,10 @@ Cookie或Session可能涉及已经建立的登录状态。
 > 打开浏览器开发者工具 → 复制Cookie / Session → 发给客服
 
 不要把它当成普通充值步骤。
+
+更完整的账号安全说明：
+
+[Gemini代充安全吗？Google账号安全指南](./gemini-recharge-safety.md)
 
 ---
 
@@ -556,7 +571,7 @@ Google用户经常同时登录多个账号。
 
 # 十八、Gemini付款失败怎么办？
 
-如果通过Google官方购买时出现付款失败：
+如果通过 Google 官方购买时出现付款失败：
 
 先排查：
 
@@ -569,7 +584,7 @@ Google用户经常同时登录多个账号。
 
 不要短时间连续重复付款。
 
-如果我们后续建立独立支付失败文档，可以把详细排查集中到单独页面，避免主充值页无限扩张。
+如果后续新增独立“Gemini支付失败”专题，再把详细排查集中到单独页面，避免主充值页继续无限扩张。
 
 ---
 
@@ -591,6 +606,10 @@ Google用户经常同时登录多个账号。
 - 售后
 
 Google账号通常关联大量其他Google服务，因此账号安全尤其重要。
+
+完整说明：
+
+[Gemini代充安全吗？Google账号安全指南](./gemini-recharge-safety.md)
 
 ---
 
@@ -907,10 +926,15 @@ MuyuGPT是独立第三方AI订阅服务平台，与Google不存在官方隶属�
 
 # 二十九、相关阅读
 
+- [Gemini / Google AI Pro价格与套餐指南](./gemini-ai-pro-price-guide.md)
+- [Google AI Pro是什么？功能与适合人群指南](./google-ai-pro-guide.md)
+- [Gemini代充安全吗？Google账号安全指南](./gemini-recharge-safety.md)
+- [Google AI Pro怎么取消？Gemini关闭自动续费与退款指南](./google-ai-pro-cancel.md)
 - [2026 GPT充值指南｜ChatGPT Plus / Pro国内充值](../chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
 - [ChatGPT Plus和Pro有什么区别？](../chatgpt/chatgpt-plus-vs-pro.md)
 - [2026 Claude充值指南：Claude Pro / Max国内购买](../claude/claude-pro-alipay-wechat-recharge.md)
-- [Claude Pro和Max有什么区别？](../claude/claude-pro-vs-max.md)
+- [Claude Pro和Max有什么区别？](../claude/claude-max-vs-pro.md)
+- [2026 Grok / SuperGrok国内购买指南](../grok/supergrok-alipay-wechat-recharge.md)
 
 ---
 
@@ -930,5 +954,6 @@ MuyuGPT自身Gemini相关商品、人民币价格、账号类型、付款方式�
 
 ## 更新记录
 
+- **2026-08-13**：修正 Claude Pro / Max 对比文章链接，并补充 Gemini 价格、Google AI Pro介绍、安全、取消订阅及Grok相关阅读入口。
 - **2026-08-13**：重构Gemini充值、Google AI Pro、Gemini国内购买、支付宝微信、本人Google账号、成品号、账号安全及API区别等主题，并建立Gemini内容集群主入口。
 - **2026-08**：整理Gemini / Google AI Pro国内购买及人民币付款相关内容。
