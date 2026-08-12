@@ -127,26 +127,23 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 👉 [查看 Claude Pro / Max 当前套餐](https://muyugpt.com/claude)
 
+## Gemini充值与国内购买
+
+- [2026 Gemini充值 / Google AI Pro国内购买指南](./gemini/gemini-ai-pro-alipay-wechat-recharge.md)
+
+## 套餐、价格与产品介绍
+
+- [Gemini / Google AI Pro价格与套餐指南](./gemini/gemini-ai-pro-price-guide.md)
+- [Google AI Pro是什么？功能与适合人群指南](./gemini/google-ai-pro-guide.md)
+
+## 代充安全与取消订阅
+
+- [Gemini代充安全吗？Google账号安全指南](./gemini/gemini-recharge-safety.md)
+- [Google AI Pro怎么取消？Gemini关闭自动续费与退款指南](./gemini/google-ai-pro-cancel.md)
+
+👉 [查看 Gemini / Google AI Pro 当前套餐](https://muyugpt.com/gemini)
+
 ---
-# Gemini充值
-
-国内用户常见搜索：
-
-**Gemini充值、Gemini国内充值、Gemini AI Pro充值、Google AI Pro购买、Google AI Pro价格、Gemini支付宝充值、Gemini微信充值、Gemini代充。**
-
-## Gemini / Google AI Pro 国内怎么购买？
-
-购买 Gemini / Google AI Pro 之前建议确认：
-
-- 使用哪个 Google 账号
-- 当前套餐名称
-- 当前地区可用性
-- 支付方式
-- 订阅周期
-- 是否自动续费
-- Google One相关权益
-- 当前 Google 官方规则
-
 如果已经具备正常的官方购买条件，可以优先考虑官方订阅。
 
 如果没有合适的付款方式，再根据自己的实际需求比较其他购买路径或第三方订阅协助。
