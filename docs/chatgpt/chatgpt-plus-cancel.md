@@ -172,6 +172,7 @@ Google Play 商店 → 个人头像 → 付款和订阅 → 订阅 → ChatGPT �
 
 - [ChatGPT Plus 怎么订阅？购买、支付与使用指南](chatgpt-plus-guide.md)
 - [ChatGPT Plus 支付失败怎么办？12 个常见原因与解决方法](chatgpt-plus-payment-failed.md)
+- [其实想续费而不是取消？ChatGPT Plus 续费与自动续费说明](chatgpt-plus-renew.md)
 - ChatGPT Plus 和 ChatGPT Pro 有什么区别？
 
 ---

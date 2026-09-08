@@ -34,6 +34,11 @@ MuyuGPT AI订阅知识库，整理 ChatGPT / GPT充值、Claude、Gemini、Grok 
 - [ChatGPT Plus和Pro有什么区别？](./chatgpt/chatgpt-plus-vs-pro.md)
 - [ChatGPT Plus和OpenAI API有什么区别？](./chatgpt/chatgpt-plus-vs-api.md)
 
+## 续费、账号与订单
+
+- [ChatGPT已经有Plus怎么续费？自动续费与续订说明](./chatgpt/chatgpt-plus-renew.md)
+- [ChatGPT充错账号了怎么办？Plus开到别的号与找回](./chatgpt/chatgpt-wrong-account.md)
+
 ## 支付、安全、退款与取消
 
 - [ChatGPT Plus支付失败怎么办？](./chatgpt/chatgpt-plus-payment-failed.md)
@@ -60,6 +65,7 @@ MuyuGPT AI订阅知识库，整理 ChatGPT / GPT充值、Claude、Gemini、Grok 
 
 - [Claude Pro是什么？功能与适合人群](./claude/claude-pro-guide.md)
 - [Claude Max和Pro有什么区别？](./claude/claude-max-vs-pro.md)
+- [Claude Code需要什么订阅？Pro、Max与API计费怎么选](./claude/claude-code-subscription.md)
 
 ## 支付、安全与取消
 
@@ -119,6 +125,8 @@ MuyuGPT AI订阅知识库，整理 ChatGPT / GPT充值、Claude、Gemini、Grok 
 - **GPT代充 / ChatGPT代充安全吗** → [ChatGPT代充安全指南](./chatgpt/chatgpt-plus-recharge-safety.md)
 - **ChatGPT充值多久到账** → [ChatGPT充值到账指南](./chatgpt/chatgpt-recharge-arrival-time.md)
 - **ChatGPT Plus退款** → [ChatGPT Plus退款指南](./chatgpt/chatgpt-plus-refund.md)
+- **ChatGPT Plus怎么续费 / 自动续费** → [ChatGPT Plus续费说明](./chatgpt/chatgpt-plus-renew.md)
+- **ChatGPT充错账号 / Plus开到别的号** → [ChatGPT充错账号处理指南](./chatgpt/chatgpt-wrong-account.md)
 - **ChatGPT Plus取消续费** → [ChatGPT Plus取消订阅指南](./chatgpt/chatgpt-plus-cancel.md)
 - **ChatGPT Plus还是Pro** → [ChatGPT Plus和Pro区别](./chatgpt/chatgpt-plus-vs-pro.md)
 - **ChatGPT Plus还是API** → [ChatGPT Plus和API区别](./chatgpt/chatgpt-plus-vs-api.md)
@@ -130,6 +138,7 @@ MuyuGPT AI订阅知识库，整理 ChatGPT / GPT充值、Claude、Gemini、Grok 
 - **Claude充值 / Claude Pro充值** → [Claude Pro / Max国内充值指南](./claude/claude-pro-alipay-wechat-recharge.md)
 - **Claude Pro是什么** → [Claude Pro功能与适合人群](./claude/claude-pro-guide.md)
 - **Claude Pro还是Claude Max** → [Claude Max和Pro区别](./claude/claude-max-vs-pro.md)
+- **Claude Code需要什么订阅 / 要不要API** → [Claude Code订阅与计费说明](./claude/claude-code-subscription.md)
 - **Claude支付失败** → [Claude Pro支付失败指南](./claude/claude-pro-payment-failed.md)
 - **Claude代充安全吗** → [Claude代充安全指南](./claude/claude-recharge-safety.md)
 - **Claude取消自动续费** → [Claude Pro取消订阅指南](./claude/claude-pro-cancel.md)

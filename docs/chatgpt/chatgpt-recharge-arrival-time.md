@@ -727,6 +727,7 @@ MuyuGPT订单可根据当前结算页面实际提供的人民币支付方式付�
 * [2026 GPT充值指南｜ChatGPT Plus / Pro国内充值、支付宝微信代充与支付方法](./chatgpt-plus-pro-alipay-wechat-recharge.md)
 * [GPT / ChatGPT充值多少钱？ChatGPT Plus / Pro充值价格指南](./chatgpt-recharge-price-guide.md)
 * [ChatGPT Plus支付失败怎么办？Card Declined与银行卡被拒](./chatgpt-plus-payment-failed.md)
+* [ChatGPT充错账号了怎么办？Plus开到别的号与找回指南](./chatgpt-wrong-account.md)
 * [GPT代充安全吗？ChatGPT Plus代充与账号安全指南](./chatgpt-plus-recharge-safety.md)
 * [ChatGPT Plus和Pro有什么区别？](./chatgpt-plus-vs-pro.md)
 * [ChatGPT Plus和OpenAI API有什么区别？](./chatgpt-plus-vs-api.md)

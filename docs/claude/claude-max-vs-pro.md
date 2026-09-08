@@ -767,6 +767,7 @@ MuyuGPT是独立第三方AI订阅服务平台，与Anthropic不存在官方隶�
 # 二十八、相关阅读
 
 - [2026 Claude充值指南：Claude Pro / Max国内购买、支付宝微信付款与代充说明](./claude-pro-alipay-wechat-recharge.md)
+- [Claude Code需要什么订阅？Pro、Max与API计费怎么选](./claude-code-subscription.md)
 - [Claude Pro支付失败怎么办？银行卡被拒与订阅失败解决方法](./claude-payment-failed.md)
 - [Claude代充安全吗？账号、Session与第三方订阅安全指南](./claude-recharge-safety.md)
 - [2026 GPT充值指南｜ChatGPT Plus / Pro国内充值](../chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
