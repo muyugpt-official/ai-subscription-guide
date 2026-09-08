@@ -4,7 +4,7 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 本仓库持续更新 ChatGPT Plus / Pro、Claude Pro / Max、Gemini / Google AI Pro、Grok / SuperGrok 的国内购买方式、支付宝/微信付款、充值失败、套餐价格、取消续费及账号安全问题。
 
-**最后更新：2026 年 8 月**
+**最后更新：2026 年 9 月**
 
 官网：[https://muyugpt.com](https://muyugpt.com)
 
@@ -64,8 +64,6 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 ---
 
----
-
 # AI会员充值入口
 
 | AI产品 | 常见搜索关键词 | 充值 / 订阅指南 | 当前套餐 |
@@ -81,28 +79,28 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 ## 充值、购买与价格
 
-- [2026 GPT充值 / ChatGPT Plus、Pro国内充值指南](./chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
-- [GPT / ChatGPT充值多少钱？套餐价格与选择指南](./chatgpt/chatgpt-recharge-price-guide.md)
-- [ChatGPT充值多久到账？订单与未到账处理](./chatgpt/chatgpt-recharge-arrival-time.md)
-- [ChatGPT充值和官方订阅有什么区别？](./chatgpt/chatgpt-recharge-vs-official-subscription.md)
+- [2026 GPT充值 / ChatGPT Plus、Pro国内充值指南](./docs/chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
+- [GPT / ChatGPT充值多少钱？套餐价格与选择指南](./docs/chatgpt/chatgpt-recharge-price-guide.md)
+- [ChatGPT充值多久到账？订单与未到账处理](./docs/chatgpt/chatgpt-recharge-arrival-time.md)
+- [ChatGPT充值和官方订阅有什么区别？](./docs/chatgpt/chatgpt-recharge-vs-official-subscription.md)
 
 ## ChatGPT Plus / Pro
 
-- [ChatGPT Plus是什么？](./chatgpt/chatgpt-plus-guide.md)
-- [ChatGPT Plus和Pro有什么区别？](./chatgpt/chatgpt-plus-vs-pro.md)
-- [ChatGPT Plus和OpenAI API有什么区别？](./chatgpt/chatgpt-plus-vs-api.md)
+- [ChatGPT Plus是什么？](./docs/chatgpt/chatgpt-plus-guide.md)
+- [ChatGPT Plus和Pro有什么区别？](./docs/chatgpt/chatgpt-plus-vs-pro.md)
+- [ChatGPT Plus和OpenAI API有什么区别？](./docs/chatgpt/chatgpt-plus-vs-api.md)
 
 ## 支付、安全、退款与取消
 
-- [ChatGPT Plus支付失败怎么办？](./chatgpt/chatgpt-plus-payment-failed.md)
-- [GPT / ChatGPT代充安全吗？](./chatgpt/chatgpt-plus-recharge-safety.md)
-- [ChatGPT Plus退款指南](./chatgpt/chatgpt-plus-refund.md)
-- [ChatGPT Plus取消订阅指南](./chatgpt/chatgpt-plus-cancel.md)
+- [ChatGPT Plus支付失败怎么办？](./docs/chatgpt/chatgpt-plus-payment-failed.md)
+- [GPT / ChatGPT代充安全吗？](./docs/chatgpt/chatgpt-plus-recharge-safety.md)
+- [ChatGPT Plus退款指南](./docs/chatgpt/chatgpt-plus-refund.md)
+- [ChatGPT Plus取消订阅指南](./docs/chatgpt/chatgpt-plus-cancel.md)
 
 ## ChatGPT产品对比
 
-- [ChatGPT Plus和Claude Pro对比](./chatgpt/chatgpt-plus-vs-claude-pro.md)
-- [ChatGPT和Gemini对比](./chatgpt/chatgpt-vs-gemini.md)
+- [ChatGPT Plus和Claude Pro对比](./docs/chatgpt/chatgpt-plus-vs-claude-pro.md)
+- [ChatGPT和Gemini对比](./docs/chatgpt/chatgpt-vs-gemini.md)
 
 👉 [查看 ChatGPT Plus / Pro 当前套餐](https://muyugpt.com/chatgpt)
 
@@ -112,51 +110,43 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 ## 充值与国内购买
 
-- [Claude Pro / Max国内充值指南](./claude/claude-pro-alipay-wechat-recharge.md)
+- [Claude Pro / Max国内充值指南](./docs/claude/claude-pro-alipay-wechat-recharge.md)
 
 ## 套餐与产品选择
 
-- [Claude Pro是什么？功能与适合人群](./claude/claude-pro-guide.md)
-- [Claude Max和Pro有什么区别？](./claude/claude-max-vs-pro.md)
+- [Claude Pro是什么？功能与适合人群](./docs/claude/claude-pro-guide.md)
+- [Claude Max和Pro有什么区别？](./docs/claude/claude-max-vs-pro.md)
 
 ## 支付、安全与取消
 
-- [Claude Pro支付失败怎么办？](./claude/claude-pro-payment-failed.md)
-- [Claude代充安全吗？账号与第三方订阅安全说明](./claude/claude-recharge-safety.md)
-- [Claude Pro怎么取消？关闭自动续费指南](./claude/claude-pro-cancel.md)
+- [Claude Pro支付失败怎么办？](./docs/claude/claude-pro-payment-failed.md)
+- [Claude代充安全吗？账号与第三方订阅安全说明](./docs/claude/claude-recharge-safety.md)
+- [Claude Pro怎么取消？关闭自动续费指南](./docs/claude/claude-pro-cancel.md)
 
 👉 [查看 Claude Pro / Max 当前套餐](https://muyugpt.com/claude)
 
-## Gemini充值与国内购买
+---
 
-- [2026 Gemini充值 / Google AI Pro国内购买指南](./gemini/gemini-ai-pro-alipay-wechat-recharge.md)
+# Gemini充值
+
+## 充值与国内购买
+
+- [2026 Gemini充值 / Google AI Pro国内购买指南](./docs/gemini/gemini-ai-pro-alipay-wechat-recharge.md)
 
 ## 套餐、价格与产品介绍
 
-- [Gemini / Google AI Pro价格与套餐指南](./gemini/gemini-ai-pro-price-guide.md)
-- [Google AI Pro是什么？功能与适合人群指南](./gemini/google-ai-pro-guide.md)
+- [Gemini / Google AI Pro价格与套餐指南](./docs/gemini/gemini-ai-pro-price-guide.md)
+- [Google AI Pro是什么？功能与适合人群指南](./docs/gemini/google-ai-pro-guide.md)
 
-## 代充安全与取消订阅
+## 支付、安全与取消
 
-- [Gemini代充安全吗？Google账号安全指南](./gemini/gemini-recharge-safety.md)
-- [Google AI Pro怎么取消？Gemini关闭自动续费与退款指南](./gemini/google-ai-pro-cancel.md)
+- [Gemini支付失败怎么办？](./docs/gemini/gemini-payment-failed.md)
+- [Gemini代充安全吗？Google账号安全指南](./docs/gemini/gemini-recharge-safety.md)
+- [Google AI Pro怎么取消？Gemini关闭自动续费与退款指南](./docs/gemini/google-ai-pro-cancel.md)
 
 👉 [查看 Gemini / Google AI Pro 当前套餐](https://muyugpt.com/gemini)
 
 ---
-如果已经具备正常的官方购买条件，可以优先考虑官方订阅。
-
-如果没有合适的付款方式，再根据自己的实际需求比较其他购买路径或第三方订阅协助。
-
-## Gemini充值相关指南
-
-- [2026 Gemini充值 / Google AI Pro国内购买指南](./docs/gemini/gemini-ai-pro-alipay-wechat-recharge.md)
-- [Gemini / Google AI Pro价格与套餐指南](./docs/gemini/gemini-ai-pro-price-guide.md)
-- [Gemini代充安全吗？Google账号安全指南](./docs/gemini/gemini-recharge-safety.md)
-- [Google AI Pro是什么？功能与适合人群指南](./docs/gemini/google-ai-pro-guide.md)
-- [Google AI Pro怎么取消？Gemini关闭自动续费与退款指南](./docs/gemini/google-ai-pro-cancel.md)
-
-👉 **[查看 Gemini / Google AI Pro 当前套餐](https://muyugpt.com/gemini)**
 
 # Grok / SuperGrok充值
 
@@ -401,3 +391,4 @@ MuyuGPT 自身商品、人民币价格、使用周期、付款方式、交付方
 ## 更新记录
 
 - **2026-08-13**：重新整理 README 内容结构，加强 GPT充值、ChatGPT充值、Claude充值、Gemini充值、Grok充值与 SuperGrok 等主题入口；补充 Gemini / Google AI Pro 与 Grok / SuperGrok 专题内部链接；优化支付宝微信、代充安全、取消订阅和第三方身份说明。
+- **2026-09-08**：修复 ChatGPT、Claude、Gemini 分区文章的内部链接路径（补齐 `docs/` 前缀）；将 Gemini 独立为单独分区并修正目录锚点；去除重复的 Gemini 内容块与多余分隔线；补充 Gemini 支付失败指南入口。
