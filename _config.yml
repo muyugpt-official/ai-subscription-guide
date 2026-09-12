@@ -1,0 +1,21 @@
+title: AI 会员充值指南｜GPT、Claude、Gemini、Grok 国内充值知识库 2026
+description: 面向中文用户的 AI 会员订阅知识库：ChatGPT Plus/Pro、Claude Pro/Max、Gemini/Google AI Pro、Grok/SuperGrok 的国内充值、支付宝微信付款、套餐选择、支付失败、到账与账号安全。MuyuGPT 官网 muyugpt.com。
+url: https://muyugpt-official.github.io
+baseurl: /ai-subscription-guide
+lang: zh-CN
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README_dev.md
