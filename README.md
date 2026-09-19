@@ -1,4 +1,4 @@
-# 2026国内GPT充值 / ChatGPT Plus充值指南｜Claude、Gemini、Grok 支付宝微信代充
+# 中文 AI 会员订阅指南（ChatGPT · Claude · Gemini · Grok）
 
 MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助平台，提供 ChatGPT、Claude、Gemini、Grok 等主流 AI 服务的**国内充值、代充、套餐选择、支付失败处理、账号安全与订阅管理指南**。
 
@@ -66,12 +66,12 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 # AI会员充值入口
 
-| AI产品 | 常见搜索关键词 | 充值 / 订阅指南 | 当前套餐 |
+| AI产品 | 涵盖主题 | 充值 / 订阅指南 | 当前套餐 |
 | --- | --- | --- | --- |
-| ChatGPT | GPT充值、ChatGPT充值、ChatGPT Plus充值、GPT代充 | [ChatGPT充值指南](./docs/chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md) | [ChatGPT套餐](https://muyugpt.com/chatgpt) |
-| Claude | Claude充值、Claude Pro充值、Claude Max购买 | [Claude充值指南](./docs/claude/claude-pro-alipay-wechat-recharge.md) | [Claude套餐](https://muyugpt.com/claude) |
-| Gemini | Gemini充值、Google AI Pro购买、Gemini代充 | [Gemini充值指南](./docs/gemini/gemini-ai-pro-alipay-wechat-recharge.md) | [Gemini套餐](https://muyugpt.com/gemini) |
-| Grok | Grok充值、SuperGrok充值、Grok会员 | [Grok充值指南](./docs/grok/supergrok-alipay-wechat-recharge.md) | [Grok套餐](https://muyugpt.com/grok) |
+| ChatGPT | 充值 · Plus/Pro · 支付 · 安全 | [ChatGPT充值指南](./docs/chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md) | [ChatGPT套餐](https://muyugpt.com/chatgpt) |
+| Claude | Pro/Max · 充值 · 取消订阅 | [Claude充值指南](./docs/claude/claude-pro-alipay-wechat-recharge.md) | [Claude套餐](https://muyugpt.com/claude) |
+| Gemini | Google AI Pro · 充值 · 安全 | [Gemini充值指南](./docs/gemini/gemini-ai-pro-alipay-wechat-recharge.md) | [Gemini套餐](https://muyugpt.com/gemini) |
+| Grok | SuperGrok · 套餐 · 开通 | [Grok充值指南](./docs/grok/supergrok-alipay-wechat-recharge.md) | [Grok套餐](https://muyugpt.com/grok) |
 
 ---
 
@@ -150,10 +150,6 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 # Grok / SuperGrok充值
 
-国内用户常见搜索：
-
-**Grok充值、Grok国内充值、SuperGrok充值、SuperGrok购买、Grok支付宝充值、Grok微信充值、Grok代充、Grok会员、SuperGrok多少钱。**
-
 ## Grok / SuperGrok 国内怎么购买？
 
 如果只是偶尔使用 Grok，可以先使用当前免费方案。
@@ -190,11 +186,7 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 # 支付宝 / 微信充值说明
 
-国内用户经常搜索：
-
-**GPT支付宝充值、ChatGPT支付宝充值、ChatGPT微信充值、Claude支付宝充值、Claude微信充值、Gemini支付宝充值、Gemini微信充值、Grok支付宝充值、Grok微信充值。**
-
-这里一定要区分两个概念。
+关于用支付宝、微信购买 AI 会员，这里要区分两个概念。
 
 ## 官方支付
 
@@ -216,13 +208,7 @@ OpenAI、Anthropic、Google、xAI 等厂商官方订阅页面当前支持哪些�
 
 # AI会员代充安全吗？
 
-国内用户搜索：
-
-**GPT代充、ChatGPT代充、Claude代充、Gemini代充、Grok代充**
-
-时，不应该只比较价格。
-
-更重要的是检查：
+判断 AI 会员代充是否可靠，不应该只比较价格。更重要的是检查：
 
 - 用户是否保留账号控制权
 - 实际购买的是什么商品
@@ -343,6 +329,18 @@ MuyuGPT 是独立第三方 AI 订阅指南与订阅协助平台，与 OpenAI、A
 
 ---
 
+# 通用参考
+
+下面是跨产品的通用文档，避免在每个产品分区重复同样的安全与排查内容：
+
+- [价格与政策变更记录](./docs/reference/价格与政策变更记录.md)
+- [支付失败排查表](./docs/reference/支付失败排查表.md)
+- [账号安全检查表](./docs/reference/账号安全检查表.md)
+- [术语表](./docs/reference/术语表.md)
+- [官方帮助中心链接索引](./docs/reference/官方帮助中心链接索引.md)
+
+---
+
 # MuyuGPT 官方入口
 
 | 服务 | 页面 |
@@ -392,3 +390,4 @@ MuyuGPT 自身商品、人民币价格、使用周期、付款方式、交付方
 
 - **2026-08-13**：重新整理 README 内容结构，加强 GPT充值、ChatGPT充值、Claude充值、Gemini充值、Grok充值与 SuperGrok 等主题入口；补充 Gemini / Google AI Pro 与 Grok / SuperGrok 专题内部链接；优化支付宝微信、代充安全、取消订阅和第三方身份说明。
 - **2026-09-08**：修复 ChatGPT、Claude、Gemini 分区文章的内部链接路径（补齐 `docs/` 前缀）；将 Gemini 独立为单独分区并修正目录锚点；去除重复的 Gemini 内容块与多余分隔线；补充 Gemini 支付失败指南入口。
+- **2026-09-19**：README 去除关键词堆砌（标题与多处搜索词串），新增 `docs/reference/` 通用参考（价格与政策变更记录、支付失败排查表、账号安全检查表、术语表、官方帮助中心链接索引）；Topics 精简。
