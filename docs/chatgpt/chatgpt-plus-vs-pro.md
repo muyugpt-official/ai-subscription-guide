@@ -6,7 +6,7 @@
 >
 > **说明：** ChatGPT Plus、Pro 的价格、模型、工具和使用额度可能随 OpenAI 产品调整而变化。本文主要帮助用户理解 Plus 和 Pro 的核心区别以及应该怎么选，具体权益请以 ChatGPT 当前套餐页面及 OpenAI 官方说明为准。
 
-> **2026-10-01 补充：** ChatGPT Pro 现在有 $100、$200、$500 三档（2026-09-29 新增 Pro 500，并重新开放额度下调后的 Pro 200）。下文按"Plus 还是 Pro"的判断思路仍然适用，但具体档位、倍数与规则请看 [ChatGPT Pro 套餐手册（2026-10）](https://github.com/muyugpt-official/gpt-chongzhi/blob/main/chatgpt-pro-tiers-2026.md)。
+> **2026-10-01 补充：** ChatGPT Pro 现在有 $100、$200、$500 三档（2026-09-29 新增 Pro 500，并重新开放额度下调后的 Pro 200）。下文按"Plus 还是 Pro"的判断思路仍然适用，但具体档位、倍数与规则请看 [ChatGPT Pro 套餐手册（2026-10）](https://github.com/muyugpt-official/gpt-chongzhi/blob/main/chatgpt-pro-tiers-2026.md) 和官网解读文章 [ChatGPT Pro 500 是什么](https://muyugpt.com/blog/chatgpt-pro-500-vs-pro-100-200-plus)。
 
 国内用户准备升级 ChatGPT 时，经常搜索：
 
