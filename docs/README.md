@@ -8,6 +8,20 @@ MuyuGPT AI订阅知识库，整理 ChatGPT / GPT充值、Claude、Gemini、Grok 
 
 ---
 
+## 2026-10 新增手册（按平台与问题）
+
+| 你想了解 | 看这篇 |
+| --- | --- |
+| 四家的会员和 API 有什么区别、编程工具怎么登录计费 | [会员 vs API 对照速查](./reference/subscription-vs-api-cheatsheet.md) |
+| ChatGPT：Pro 100 / 200 / 500 怎么对应旧的 5X / 20X | [ChatGPT Pro 套餐手册](https://github.com/muyugpt-official/gpt-chongzhi/blob/main/chatgpt-pro-tiers-2026.md) |
+| ChatGPT：付款失败提示怎么看；官方、商店、第三方怎么选 | [付款失败提示对照](https://github.com/muyugpt-official/gpt-chongzhi/blob/main/docs/chatgpt-payment-failed-messages.md)、[付款路径对比](https://github.com/muyugpt-official/gpt-chongzhi/blob/main/docs/ways-to-pay-compared.md) |
+| ChatGPT 代充：哪些信息不能给、出问题怎么办 | [代充需要提供什么](https://github.com/muyugpt-official/gpt-daichong/blob/main/docs/daichong-what-info-is-safe-to-share.md)、[代充出问题怎么办](https://github.com/muyugpt-official/gpt-daichong/blob/main/docs/daichong-incident-response.md) |
+| Claude：套餐与用量限制、Claude Code 登录计费、取消与退款 | [套餐与用量限制](https://github.com/muyugpt-official/claude-chongzhi/blob/main/docs/claude-plans-and-limits-2026.md)、[Claude Code 登录与计费](https://github.com/muyugpt-official/claude-chongzhi/blob/main/docs/claude-code-login-and-billing.md)、[计费、升级、取消与退款](https://github.com/muyugpt-official/claude-chongzhi/blob/main/docs/claude-billing-cancel-refund.md) |
+| Gemini：Plus / Pro / Ultra（5x、20x）对照、订阅与 API | [Google AI 套餐手册](https://github.com/muyugpt-official/gemini-chongzhi/blob/main/docs/google-ai-plans-2026.md)、[Gemini 订阅和 API 的区别](https://github.com/muyugpt-official/gemini-chongzhi/blob/main/docs/gemini-subscription-vs-api.md) |
+| Grok：档位名称为什么对不上、订阅与 API | [SuperGrok 套餐名称与核对方法](https://github.com/muyugpt-official/grok-chongzhi/blob/main/docs/supergrok-plan-names-and-how-to-verify.md)、[Grok 订阅和 API 的区别](https://github.com/muyugpt-official/grok-chongzhi/blob/main/docs/grok-subscription-vs-api.md) |
+
+---
+
 ## 内容导航
 
 - [ChatGPT / GPT充值](#chatgpt--gpt充值)
@@ -213,4 +227,5 @@ MuyuGPT 自身商品、人民币价格、付款方式、使用周期、交付方
 
 ## 更新记录
 
+- **2026-10-01**：新增「2026-10 新增手册」导航；新增 [会员 vs API 对照速查](./reference/subscription-vs-api-cheatsheet.md)；拆分重复的 Gemini 价格与「是什么」文档。
 - **2026-08-13**：重新整理 AI 订阅文章目录；完整收录 ChatGPT、Claude、Gemini、Grok 现有专题文章；增加充值购买、价格、支付失败、账号安全、退款、取消订阅及产品对比分类；优化常见搜索主题与内部文章导航。

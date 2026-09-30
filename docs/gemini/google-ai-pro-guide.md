@@ -6,6 +6,8 @@
 >
 > **说明：** Google AI Pro 的套餐名称、价格、模型、额度和具体权益可能随 Google 调整。本文主要解释 Google AI Pro 是什么、和 Gemini 的关系、适合哪些人、值不值得买，以及和更高档 AI 套餐、API 的区别。最终权益请以 Google 当前官方页面为准。
 
+> **2026-10-01 核验补充：** 个人订阅现在是 Google AI Plus、Pro、Ultra 三个系列，其中 **Ultra 分 5x 和 20x 两档**；早期的 Gemini Advanced 大致对应现在的 Pro。各档存储、用量倍数与功能对照见 [Google AI 套餐手册](https://github.com/muyugpt-official/gemini-chongzhi/blob/main/docs/google-ai-plans-2026.md)；价格因国家、渠道和周期而异，查价方法见 [Google AI Pro 多少钱](./gemini-ai-pro-price-guide.md)；订阅与 Gemini API 的区别见 [Gemini 订阅和 API 的区别](https://github.com/muyugpt-official/gemini-chongzhi/blob/main/docs/gemini-subscription-vs-api.md)。
+
 很多用户搜索：
 
 **Google AI Pro是什么、Google AI Pro有什么用、Google AI Pro值得买吗、Google AI Pro包含什么、Gemini和Google AI Pro什么关系、Google AI Pro多少钱。**

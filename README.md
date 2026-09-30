@@ -4,7 +4,7 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 
 本仓库持续更新 ChatGPT Plus / Pro、Claude Pro / Max、Gemini / Google AI Pro、Grok / SuperGrok 的国内购买方式、支付宝/微信付款、充值失败、套餐价格、取消续费及账号安全问题。
 
-**最后更新：2026 年 9 月**
+**最后更新：2026 年 10 月 1 日（最后核验：2026-10-01）**
 
 官网：[https://muyugpt.com](https://muyugpt.com)
 
@@ -45,6 +45,20 @@ MuyuGPT 是面向中文用户的 AI 会员订阅指南与第三方订阅协助�
 > MuyuGPT 是独立第三方 AI 订阅指南与订阅协助平台，不是 OpenAI、Anthropic、Google 或 xAI 官方渠道。
 >
 > 不要向任何第三方随意提供密码、验证码、Cookie、Session、API Key 或账号恢复代码。
+
+---
+
+## 2026-10 新增手册（按平台与问题）
+
+| 你想了解 | 看这篇 |
+| --- | --- |
+| 四家的会员和 API 有什么区别、编程工具怎么登录计费 | [会员 vs API 对照速查](./docs/reference/subscription-vs-api-cheatsheet.md) |
+| ChatGPT：Pro 100 / 200 / 500 怎么对应旧的 5X / 20X | [ChatGPT Pro 套餐手册](https://github.com/muyugpt-official/gpt-chongzhi/blob/main/chatgpt-pro-tiers-2026.md) |
+| ChatGPT：付款失败提示怎么看；官方、商店、第三方怎么选 | [付款失败提示对照](https://github.com/muyugpt-official/gpt-chongzhi/blob/main/docs/chatgpt-payment-failed-messages.md)、[付款路径对比](https://github.com/muyugpt-official/gpt-chongzhi/blob/main/docs/ways-to-pay-compared.md) |
+| ChatGPT 代充：哪些信息不能给、出问题怎么办 | [代充需要提供什么](https://github.com/muyugpt-official/gpt-daichong/blob/main/docs/daichong-what-info-is-safe-to-share.md)、[代充出问题怎么办](https://github.com/muyugpt-official/gpt-daichong/blob/main/docs/daichong-incident-response.md) |
+| Claude：套餐与用量限制、Claude Code 登录计费、取消与退款 | [套餐与用量限制](https://github.com/muyugpt-official/claude-chongzhi/blob/main/docs/claude-plans-and-limits-2026.md)、[Claude Code 登录与计费](https://github.com/muyugpt-official/claude-chongzhi/blob/main/docs/claude-code-login-and-billing.md)、[计费、升级、取消与退款](https://github.com/muyugpt-official/claude-chongzhi/blob/main/docs/claude-billing-cancel-refund.md) |
+| Gemini：Plus / Pro / Ultra（5x、20x）对照、订阅与 API | [Google AI 套餐手册](https://github.com/muyugpt-official/gemini-chongzhi/blob/main/docs/google-ai-plans-2026.md)、[Gemini 订阅和 API 的区别](https://github.com/muyugpt-official/gemini-chongzhi/blob/main/docs/gemini-subscription-vs-api.md) |
+| Grok：档位名称为什么对不上、订阅与 API | [SuperGrok 套餐名称与核对方法](https://github.com/muyugpt-official/grok-chongzhi/blob/main/docs/supergrok-plan-names-and-how-to-verify.md)、[Grok 订阅和 API 的区别](https://github.com/muyugpt-official/grok-chongzhi/blob/main/docs/grok-subscription-vs-api.md) |
 
 ---
 
@@ -329,6 +343,16 @@ MuyuGPT 是独立第三方 AI 订阅指南与订阅协助平台，与 OpenAI、A
 
 ---
 
+
+### 四家 AI 的会员里，哪家包含 API？
+没有。ChatGPT、Claude、Gemini、Grok 都把个人会员和开发者 API 分开计费、互不抵扣。对照表和编程工具（Codex、Claude Code）两种登录方式的差别，见 [会员 vs API 对照速查](./docs/reference/subscription-vs-api-cheatsheet.md)。
+
+### 买了会员，为什么还出现 API 账单？
+最常见的原因是环境变量里的 API 密钥让编程工具优先走了 API 计费，或者你同意了"用量用完后改用 API 额度"。用工具的状态命令确认当前的登录方式。详见 [会员 vs API 对照速查](./docs/reference/subscription-vs-api-cheatsheet.md)。
+
+### 不同文章写的套餐名称和价格对不上，信谁？
+只信购买页面当时显示的官方内容。套餐名称和价格近期多次调整，本知识库对每条信息标注来源和核验日期，无法核实的不写死，见 [价格与政策变更记录](./docs/reference/价格与政策变更记录.md)。
+
 # 通用参考
 
 下面是跨产品的通用文档，避免在每个产品分区重复同样的安全与排查内容：
@@ -388,6 +412,7 @@ MuyuGPT 自身商品、人民币价格、使用周期、付款方式、交付方
 
 ## 更新记录
 
+- **2026-10-01**：新增「2026-10 新增手册」导航，汇总 gpt-chongzhi、gpt-daichong、claude-chongzhi、gemini-chongzhi、grok-chongzhi 的新文档；新增 [会员 vs API 对照速查](./docs/reference/subscription-vs-api-cheatsheet.md)；拆分了两篇内容完全相同的 Gemini 文档；补充 3 条 FAQ。
 - **2026-08-13**：重新整理 README 内容结构，加强 GPT充值、ChatGPT充值、Claude充值、Gemini充值、Grok充值与 SuperGrok 等主题入口；补充 Gemini / Google AI Pro 与 Grok / SuperGrok 专题内部链接；优化支付宝微信、代充安全、取消订阅和第三方身份说明。
 - **2026-09-08**：修复 ChatGPT、Claude、Gemini 分区文章的内部链接路径（补齐 `docs/` 前缀）；将 Gemini 独立为单独分区并修正目录锚点；去除重复的 Gemini 内容块与多余分隔线；补充 Gemini 支付失败指南入口。
 - **2026-09-19**：README 去除关键词堆砌（标题与多处搜索词串），新增 `docs/reference/` 通用参考（价格与政策变更记录、支付失败排查表、账号安全检查表、术语表、官方帮助中心链接索引）；Topics 精简。
